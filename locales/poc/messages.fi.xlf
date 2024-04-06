@@ -1,0 +1,2004 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd"
+       xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file original="fi" datatype="plaintext" source-language="fi" target-language="fi">
+        <body>
+            <trans-unit id="Invoice">
+                <source>Lasku</source>
+                <target>Lasku</target>
+            </trans-unit>
+            <trans-unit id="actors">
+                <source>Osapuolet</source>
+                <target>Osapuolet</target>
+            </trans-unit>
+            <trans-unit id="add-favourite-customer-error">
+                <source>Asiakkaan
+                    <x id="PH" equiv-text="customer.name"/>
+                    lisääminen valittujen asiakkaiden listalle epäonnistui. Tarkista asiakkaan tiedot.
+                </source>
+                <target>Asiakkaan
+                    <x id="PH" equiv-text="customer.name"/>
+                    lisääminen valittujen asiakkaiden listalle epäonnistui. Tarkista asiakkaan tiedot.
+                </target>
+            </trans-unit>
+            <trans-unit id="add-favourite-customer-exists-notification">
+                <source>Asiakas
+                    <x id="PH" equiv-text="customer.name"/>
+                    on jo valittujen asiakkaiden listallasi.
+                </source>
+                <target>Asiakas
+                    <x id="PH" equiv-text="customer.name"/>
+                    on jo valittujen asiakkaiden listallasi.
+                </target>
+            </trans-unit>
+            <trans-unit id="add-favourite-customer-notification">
+                <source>Asiakkaan
+                    <x id="PH" equiv-text="customer.name"/>
+                    lisääminen valittujen asiakkaiden listalle epäonnistui.
+                </source>
+                <target>Asiakkaan
+                    <x id="PH" equiv-text="customer.name"/>
+                    lisääminen valittujen asiakkaiden listalle epäonnistui.
+                </target>
+            </trans-unit>
+            <trans-unit id="add-favourite-customer-success">
+                <source>Asiakas
+                    <x id="PH" equiv-text="customer.name"/>
+                    on lisätty valittujen asiakkaiden listallesi.
+                </source>
+                <target>Asiakas
+                    <x id="PH" equiv-text="customer.name"/>
+                    on lisätty valittujen asiakkaiden listallesi.
+                </target>
+            </trans-unit>
+            <trans-unit id="add-favourite-customer-validation-notification">
+                <source>Asiakkaan
+                    <x id="PH" equiv-text="customer.code"/>
+                    tarkistaminen epäonnistui kun yritit lisätä sitä valittujen asiakkaiden listallesi. Virheilmoitus:
+                </source>
+                <target>Asiakkaan
+                    <x id="PH" equiv-text="customer.code"/>
+                    tarkistaminen epäonnistui kun yritit lisätä sitä valittujen asiakkaiden listallesi. Virheilmoitus:
+                </target>
+            </trans-unit>
+            <trans-unit id="additional-addresses-not-found">
+                <source>Asiakkaalle '<x id="PH" equiv-text="this.customerData?.code"/>' ei löydy muita osoitteita.
+                </source>
+                <target>Asiakkaalle '<x id="PH" equiv-text="this.customerData?.code"/>' ei löydy muita osoitteita.
+                </target>
+            </trans-unit>
+            <trans-unit id="additional-email-types-not-found">
+                <source>Muita sähköpostiosoitteen tyyppejä ei löydy.</source>
+                <target>Muita sähköpostiosoitteen tyyppejä ei löydy.</target>
+            </trans-unit>
+            <trans-unit id="additional-emails-not-found">
+                <source>Asiakkaalle '<x id="PH" equiv-text="this.customerData?.code"/>' ei löydy muita
+                    sähköpostiosoitteita.
+                </source>
+                <target>Asiakkaalle '<x id="PH" equiv-text="this.customerData?.code"/>' ei löydy muita
+                    sähköpostiosoitteita.
+                </target>
+            </trans-unit>
+            <trans-unit id="additional-errands-not-found">
+                <source>Asiakkaalle '<x id="PH" equiv-text="this.customerData?.code"/>' ei löydy tapahtumia.
+                </source>
+                <target>Asiakkaalle '<x id="PH" equiv-text="this.customerData?.code"/>' ei löydy tapahtumia.
+                </target>
+            </trans-unit>
+            <trans-unit id="additional-info">
+                <source>Lisätiedot</source>
+                <target>Lisätiedot</target>
+            </trans-unit>
+            <trans-unit id="additional-phone-number-types-not-found">
+                <source>Muita puhelinnumerotyyppejä ei löydy.</source>
+                <target>Muita puhelinnumerotyyppejä ei löydy.</target>
+            </trans-unit>
+            <trans-unit id="additional-phone-numbers-not-found">
+                <source>Asiakkaalle '<x id="PH" equiv-text="this.customerData?.code"/>' ei löydy muita puhelinnumeroita.
+                </source>
+                <target>Asiakkaalle '<x id="PH" equiv-text="this.customerData?.code"/>' ei löydy muita puhelinnumeroita.
+                </target>
+            </trans-unit>
+            <trans-unit id="address">
+                <source>Osoite</source>
+                <target>Osoite</target>
+            </trans-unit>
+            <trans-unit id="balance-responsible">
+                <source>Tasevastaava</source>
+                <target>Tasevastaava</target>
+            </trans-unit>
+            <trans-unit id="balance-type">
+                <source>Taseluokitus</source>
+                <target>Taseluokitus</target>
+            </trans-unit>
+            <trans-unit id="business-code-name">
+                <source>Käyttötarkoitus</source>
+                <target>Käyttötarkoitus</target>
+            </trans-unit>
+            <trans-unit id="button-cancel">
+                <source>Peruuta</source>
+                <target>Peruuta</target>
+            </trans-unit>
+            <trans-unit id="button-confirm">
+                <source>Vahvista</source>
+                <target>Vahvista</target>
+            </trans-unit>
+            <trans-unit id="button-remove-address">
+                <source>Poista osoite</source>
+                <target>Poista osoite</target>
+            </trans-unit>
+            <trans-unit id="button-remove-email">
+                <source>Poista sähköpostiosoite</source>
+                <target>Poista sähköpostiosoite</target>
+            </trans-unit>
+            <trans-unit id="button-remove-phone-number">
+                <source>Poista puhelinnumero</source>
+                <target>Poista puhelinnumero</target>
+            </trans-unit>
+            <trans-unit id="button-save-uppercase">
+                <source>TALLENNA</source>
+                <target>TALLENNA</target>
+            </trans-unit>
+            <trans-unit id="change-log">
+                <source>Muutokset</source>
+                <target>Muutokset</target>
+            </trans-unit>
+            <trans-unit id="classification">
+                <source>Luokittelu</source>
+                <target>Luokittelu</target>
+            </trans-unit>
+            <trans-unit id="common-error-header">
+                <source>Virhe</source>
+                <target>Virhe</target>
+            </trans-unit>
+            <trans-unit id="common-page-not-found">
+                <source>Sivua ei löydy</source>
+                <target>Sivua ei löydy</target>
+            </trans-unit>
+            <trans-unit id="common-page-not-found-text">
+                <source>Sivu, jonka yritit avata on mahdollisesti poistettu tai kirjoitit osoitteen väärin</source>
+                <target>Sivu, jonka yritit avata on mahdollisesti poistettu tai kirjoitit osoitteen väärin</target>
+            </trans-unit>
+            <trans-unit id="consumer-code-name">
+                <source>Kuluttajaryhmä</source>
+                <target>Kuluttajaryhmä</target>
+            </trans-unit>
+            <trans-unit id="consumption">
+                <source>Mittaustiedot</source>
+                <target>Mittaustiedot</target>
+            </trans-unit>
+            <trans-unit id="consumption-type">
+                <source>Käytön tyyppi</source>
+                <target>Käytön tyyppi</target>
+            </trans-unit>
+            <trans-unit id="contact-information">
+                <source>Yhteystiedot</source>
+                <target>Yhteystiedot</target>
+            </trans-unit>
+            <trans-unit id="contract">
+                <source>Sopimukset</source>
+                <target>Sopimukset</target>
+            </trans-unit>
+            <trans-unit id="contract-category-districtCooling">
+                <source>Jäähdytys</source>
+                <target>Jäähdytys</target>
+            </trans-unit>
+            <trans-unit id="contract-category-districtHeating">
+                <source>Kaukolämpö</source>
+                <target>Kaukolämpö</target>
+            </trans-unit>
+            <trans-unit id="contract-category-electricityRtl">
+                <source>Sähkön myynti</source>
+                <target>Sähkön myynti</target>
+            </trans-unit>
+            <trans-unit id="contract-category-gasDso">
+                <source>Kaasun siirto</source>
+                <target>Kaasun siirto</target>
+            </trans-unit>
+            <trans-unit id="contract-category-gasRtl">
+                <source>Kaasun myynti</source>
+                <target>Kaasun myynti</target>
+            </trans-unit>
+            <trans-unit id="contract-category-installation">
+                <source>Liittymä</source>
+                <target>Liittymä</target>
+            </trans-unit>
+            <trans-unit id="contract-category-internet">
+                <source>Internet</source>
+                <target>Internet</target>
+            </trans-unit>
+            <trans-unit id="contract-category-invoiceConfiguration">
+                <source>Laskukokoonpano</source>
+                <target>Laskukokoonpano</target>
+            </trans-unit>
+            <trans-unit id="contract-category-other">
+                <source>Muu</source>
+                <target>Muu</target>
+            </trans-unit>
+            <trans-unit id="contract-category-passThruInvoicingDso">
+                <source>Verkon läpilaskutussopimus</source>
+                <target>Verkon läpilaskutussopimus</target>
+            </trans-unit>
+            <trans-unit id="contract-category-passThruInvoicingRtl">
+                <source>Myyjän läpilaskutussopimus</source>
+                <target>Myyjän läpilaskutussopimus</target>
+            </trans-unit>
+            <trans-unit id="contract-category-unknown">
+                <source>Tuntematon</source>
+                <target>Tuntematon</target>
+            </trans-unit>
+            <trans-unit id="contract-change-of-contract">
+                <source>Vaihda sopimus</source>
+                <target>Vaihda sopimus</target>
+            </trans-unit>
+            <trans-unit id="contract-delete-contract">
+                <source>Poista sopimus</source>
+                <target>Poista sopimus</target>
+            </trans-unit>
+            <trans-unit id="contract-detailed-information">
+                <source>Yksityiskohtaiset tiedot</source>
+                <target>Yksityiskohtaiset tiedot</target>
+            </trans-unit>
+            <trans-unit id="contract-edit-move-in">
+                <source>Muuta sisäänmuuttoa</source>
+                <target>Muuta sisäänmuuttoa</target>
+            </trans-unit>
+            <trans-unit id="contract-edit-move-out">
+                <source>Muuta ulosmuuttoa</source>
+                <target>Muuta ulosmuuttoa</target>
+            </trans-unit>
+            <trans-unit id="contract-ending-of-contract">
+                <source>Päätä sopimus</source>
+                <target>Päätä sopimus</target>
+            </trans-unit>
+            <trans-unit id="contract-manage-contract-person">
+                <source>Yhteyshenkilöiden hallinta</source>
+                <target>Yhteyshenkilöiden hallinta</target>
+            </trans-unit>
+            <trans-unit id="contract-new-errand">
+                <source>Lisää tapahtuma</source>
+                <target>Lisää tapahtuma</target>
+            </trans-unit>
+            <trans-unit id="contract-open-in-tree-view">
+                <source>Avaa puunäkymässä</source>
+                <target>Avaa puunäkymässä</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-contract-end-date">
+                <source>Päättymispäivä</source>
+                <target>Päättymispäivä</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-contract-number">
+                <source>Sopimusnumero</source>
+                <target>Sopimusnumero</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-contract-start-date">
+                <source>Alkupäivä</source>
+                <target>Alkupäivä</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-contract-status">
+                <source>Sopimuksen tila</source>
+                <target>Sopimuksen tila</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-contracts">
+                <source>Sopimukset</source>
+                <target>Sopimukset</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-customer-type">
+                <source>Asiakastyyppi</source>
+                <target>Asiakastyyppi</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-delivery-site-address">
+                <source>Toimituskohteen osoite</source>
+                <target>Toimituskohteen osoite</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-delivery-site-code">
+                <source>Toimituskohteen tunnus</source>
+                <target>Toimituskohteen tunnus</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-ending-reason">
+                <source>Päättymisen syy</source>
+                <target>Päättymisen syy</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-invoice-configuration-number">
+                <source>Laskukokoonpano</source>
+                <target>Laskukokoonpano</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-last-invoice-date">
+                <source>Viimeisin laskutuspäivä</source>
+                <target>Viimeisin laskutuspäivä</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-product-standard-contract">
+                <source>Tuote/vakiosopimus</source>
+                <target>Tuote/vakiosopimus</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-signature-date">
+                <source>Allekirjoituspäivä</source>
+                <target>Allekirjoituspäivä</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-start-reason">
+                <source>Aloituksen syy</source>
+                <target>Aloituksen syy</target>
+            </trans-unit>
+            <trans-unit id="contract-price-information">
+                <source>Hintatiedot</source>
+                <target>Hintatiedot</target>
+            </trans-unit>
+            <trans-unit id="contract-status-accepted">
+                <source>Hyväksytty</source>
+                <target>Hyväksytty</target>
+            </trans-unit>
+            <trans-unit id="contract-status-deleted">
+                <source>Poistettu</source>
+                <target>Poistettu</target>
+            </trans-unit>
+            <trans-unit id="contract-status-unknown">
+                <source>Tuntematon</source>
+                <target>Tuntematon</target>
+            </trans-unit>
+            <trans-unit id="contract-status-written">
+                <source>Valmis</source>
+                <target>Valmis</target>
+            </trans-unit>
+            <trans-unit id="contracts">
+                <source>Sopimukset</source>
+                <target>Sopimukset</target>
+            </trans-unit>
+            <trans-unit id="customer-additional-addresses-header">
+                <source>Virhe</source>
+                <target>Virhe</target>
+            </trans-unit>
+            <trans-unit id="customer-additional-email-types-header">
+                <source>Varoitus</source>
+                <target>Varoitus</target>
+            </trans-unit>
+            <trans-unit id="customer-additional-emails-header">
+                <source>Virhe</source>
+                <target>Virhe</target>
+            </trans-unit>
+            <trans-unit id="customer-additional-invoice-distribution-methods-header">
+                <source>Varoitus</source>
+                <target>Varoitus</target>
+            </trans-unit>
+            <trans-unit id="customer-additional-phone-numbers-header">
+                <source>Virhe</source>
+                <target>Virhe</target>
+            </trans-unit>
+            <trans-unit id="customer-additional-phone-numbers-types-header">
+                <source>Varoitus</source>
+                <target>Varoitus</target>
+            </trans-unit>
+            <trans-unit id="customer-contract-header">
+                <source>Virhe</source>
+                <target>Virhe</target>
+            </trans-unit>
+            <trans-unit id="customer-contract-not-found">
+                <source>Sopimusta ei löydy.</source>
+                <target>Sopimusta ei löydy.</target>
+            </trans-unit>
+            <trans-unit id="customer-contracts-header">
+                <source>Virhe</source>
+                <target>Virhe</target>
+            </trans-unit>
+            <trans-unit id="customer-delete-action">
+                <source>Haluatko varmasti poistaa asiakkaan
+                    <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>
+                    <x id="INTERPOLATION" equiv-text="{{ data.name }}"/>
+                    <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
+                    valittujen asiakkaiden listalta?
+                </source>
+                <target>Haluatko varmasti poistaa asiakkaan
+                    <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>
+                    <x id="INTERPOLATION" equiv-text="{{ data.name }}"/>
+                    <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
+                    valittujen asiakkaiden listalta?
+                </target>
+            </trans-unit>
+            <trans-unit id="customer-delete-action-close-button">
+                <source>Peruuta</source>
+                <target>Peruuta</target>
+            </trans-unit>
+            <trans-unit id="customer-delete-action-delete-button">
+                <source>Poistettu</source>
+                <target>Poistettu</target>
+            </trans-unit>
+            <trans-unit id="customer-delivery-site-header">
+                <source>Virhe</source>
+                <target>Virhe</target>
+            </trans-unit>
+            <trans-unit id="customer-delivery-site-not-found">
+                <source>Toimituskohdetta ei löydy.</source>
+                <target>Toimituskohdetta ei löydy.</target>
+            </trans-unit>
+            <trans-unit id="customer-errands">
+                <source>Tapahtumat</source>
+                <target>Tapahtumat</target>
+            </trans-unit>
+            <trans-unit id="customer-errands-header">
+                <source>Virhe</source>
+                <target>Virhe</target>
+            </trans-unit>
+            <trans-unit id="customer-info-additional-contact-information">
+                <source>Muut yhteystiedot</source>
+                <target>Muut yhteystiedot</target>
+            </trans-unit>
+            <trans-unit id="customer-info-main-customer">
+                <source>Asiakastiedot</source>
+                <target>Asiakastiedot</target>
+            </trans-unit>
+            <trans-unit id="customer-logout">
+                <source>Kirjaudu ulos</source>
+                <target>Kirjaudu ulos</target>
+            </trans-unit>
+            <trans-unit id="customer-not-found">
+                <source>Asiakasta tunnuksella '<x id="PH" equiv-text="code"/>' ei löydy
+                </source>
+                <target>Asiakasta tunnuksella '<x id="PH" equiv-text="code"/>' ei löydy
+                </target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-additional-address">
+                <source>Muut osoitteet</source>
+                <target>Muut osoitteet</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-additional-email">
+                <source>Muut sähköpostiosoitteet</source>
+                <target>Muut sähköpostiosoitteet</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-additional-phone-number">
+                <source>Muut puhelinnumerot</source>
+                <target>Muut puhelinnumerot</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-address">
+                <source>Osoite:</source>
+                <target>Osoite:</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-address-type">
+                <source>Osoitteen tyyppi</source>
+                <target>Osoitteen tyyppi</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-apartment">
+                <source>Huoneisto</source>
+                <target>Huoneisto</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-are-you-sure">
+                <source>Oletko varma?</source>
+                <target>Oletko varma?</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-attention">
+                <source>Huomautus</source>
+                <target>Huomautus</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-bank-code">
+                <source>Pankin tunnus</source>
+                <target>Pankin tunnus</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-changed-by">
+                <source>Muuttaja</source>
+                <target>Muuttaja</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-changed-date">
+                <source>Muutospäivä</source>
+                <target>Muutospäivä</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-channel-name">
+                <source>Kanava</source>
+                <target>Kanava</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-co-address">
+                <source>CO</source>
+                <target>CO</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-comment">
+                <source>Lisätieto</source>
+                <target>Lisätieto</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-connected-to-errand">
+                <source>Liittyy tapahtumaan</source>
+                <target>Liittyy tapahtumaan</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-contact">
+                <source>Yhteystieto</source>
+                <target>Yhteystieto</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-contact-center">
+                <source>Palvelupiste</source>
+                <target>Palvelupiste</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-country">
+                <source>Maa</source>
+                <target>Maa</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-created-by">
+                <source>Lisääjä</source>
+                <target>Lisääjä</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-created-date">
+                <source>Lisäyspäivä</source>
+                <target>Lisäyspäivä</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-credit-rating">
+                <source>Luottoluokitus</source>
+                <target>Luottoluokitus</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-customer-code">
+                <source>Asiakasnumero:</source>
+                <target>Asiakasnumero:</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-customer-info-uppercase">
+                <source>ASIAKASTIEDOT</source>
+                <target>ASIAKASTIEDOT</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-customer-type">
+                <source>Asiakastyyppi</source>
+                <target>Asiakastyyppi</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-delete-item">
+                <source>Poista tieto</source>
+                <target>Poista tieto</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-description">
+                <source>Kuvaus</source>
+                <target>Kuvaus</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-due-date">
+                <source>Eräpäivä</source>
+                <target>Eräpäivä</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-email">
+                <source>Sähköpostiosoite</source>
+                <target>Sähköpostiosoite</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-email-type">
+                <source>Sähköpostiosoitteen tyyppi</source>
+                <target>Sähköpostiosoitteen tyyppi</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-errand-code">
+                <source>Tapahtumatunnus</source>
+                <target>Tapahtumatunnus</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-errand-id">
+                <source>Tapahtuma</source>
+                <target>Tapahtuma</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-external-id">
+                <source>Ulkoinen tunnus</source>
+                <target>Ulkoinen tunnus</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-finalized-by">
+                <source>Päättäjä</source>
+                <target>Päättäjä</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-finalized-date">
+                <source>Päättämispäivä</source>
+                <target>Päättämispäivä</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-first-name">
+                <source>Etunimi</source>
+                <target>Etunimi</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-floor-number">
+                <source>Kerros/rappu</source>
+                <target>Kerros/rappu</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-handling-group">
+                <source>Käsittelijäryhmä</source>
+                <target>Käsittelijäryhmä</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-juristic-name">
+                <source>Virallinen nimi</source>
+                <target>Virallinen nimi</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-last-name">
+                <source>Sukunimi</source>
+                <target>Sukunimi</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-legal-status">
+                <source>Juridinen tila:</source>
+                <target>Juridinen tila:</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-mailing-method">
+                <source>Laskun lähetystapa</source>
+                <target>Laskun lähetystapa</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-main-address">
+                <source>Pääosoite</source>
+                <target>Pääosoite</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-main-email">
+                <source>Ensisij. sähköpostiosoite</source>
+                <target>Ensisij. sähköpostiosoite</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-main-phone-number">
+                <source>Ensisij. puhelinnumero</source>
+                <target>Ensisij. puhelinnumero</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-make-a-linked-errand">
+                <source>Lisää liitetty tapahtuma</source>
+                <target>Lisää liitetty tapahtuma</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-not-set">
+                <source>Ei asetettu</source>
+                <target>Ei asetettu</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-object">
+                <source>Kohde</source>
+                <target>Kohde</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-open-document">
+                <source>Avaa tiedosto</source>
+                <target>Avaa tiedosto</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-open-edit-errand">
+                <source>Avaa/muuta tapahtumaa</source>
+                <target>Avaa/muuta tapahtumaa</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-other">
+                <source>Muu</source>
+                <target>Muu</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-phone-number">
+                <source>Puhelinnumero</source>
+                <target>Puhelinnumero</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-phone-type">
+                <source>Puhelinnumeron tyyppi</source>
+                <target>Puhelinnumeron tyyppi</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-postal-code">
+                <source>Postinumero</source>
+                <target>Postinumero</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-postal-name">
+                <source>Postitoimipaikka</source>
+                <target>Postitoimipaikka</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-ref">
+                <source>Viite</source>
+                <target>Viite</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-remove-errand">
+                <source>Poista tapahtuma</source>
+                <target>Poista tapahtuma</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-responsible">
+                <source>Vastuullinen</source>
+                <target>Vastuullinen</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-responsible-area">
+                <source>Vastuualue</source>
+                <target>Vastuualue</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-segment">
+                <source>Segmentti</source>
+                <target>Segmentti</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-service-language">
+                <source>Palvelukieli</source>
+                <target>Palvelukieli</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-source-system">
+                <source>Lähdejärjestelmä</source>
+                <target>Lähdejärjestelmä</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-ssn">
+                <source>Henkilö-/y-tunnus</source>
+                <target>Henkilö-/y-tunnus</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-status-name">
+                <source>Tila</source>
+                <target>Tila</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-street-name">
+                <source>Kadun nimi</source>
+                <target>Kadun nimi</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-street-number">
+                <source>Katunumero</source>
+                <target>Katunumero</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-title">
+                <source>Otsikko</source>
+                <target>Otsikko</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-type">
+                <source>Tyyppi</source>
+                <target>Tyyppi</target>
+            </trans-unit>
+            <trans-unit id="customer-status-active">
+                <source>Aktiivinen</source>
+                <target>Aktiivinen</target>
+            </trans-unit>
+            <trans-unit id="customer-status-ended">
+                <source>Päätetty</source>
+                <target>Päätetty</target>
+            </trans-unit>
+            <trans-unit id="customer-status-potential">
+                <source>Potentiaalinen</source>
+                <target>Potentiaalinen</target>
+            </trans-unit>
+            <trans-unit id="customer-status-prospect">
+                <source>Prospekti</source>
+                <target>Prospekti</target>
+            </trans-unit>
+            <trans-unit id="customer-type-company">
+                <source>Yritys</source>
+                <target>Yritys</target>
+            </trans-unit>
+            <trans-unit id="customer-type-person">
+                <source>Henkilö</source>
+                <target>Henkilö</target>
+            </trans-unit>
+            <trans-unit id="customer-type-unknown">
+                <source>Tuntematon</source>
+                <target>Tuntematon</target>
+            </trans-unit>
+            <trans-unit id="deactivate-guard-unsaved-changes">
+                <source>Olet muuttanut tietoja eikä niitä ole tallennettu. Jos poistut näkymästä, niin tallentamattomat
+                    muutokset häviävät.
+                </source>
+                <target>Olet muuttanut tietoja eikä niitä ole tallennettu. Jos poistut näkymästä, niin tallentamattomat
+                    muutokset häviävät.
+                </target>
+            </trans-unit>
+            <trans-unit id="delivery-site-a-f-h">
+                <source>A/T/H</source>
+                <target>A/T/H</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-address">
+                <source>Toimituskohteen osoite</source>
+                <target>Toimituskohteen osoite</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-balance-responsible">
+                <source>Tasevastaava</source>
+                <target>Tasevastaava</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-balance-responsible-header">
+                <source>Virhe</source>
+                <target>Virhe</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-balance-responsible-not-found">
+                <source>Toimituskohteen '<x id="PH" equiv-text="deliverySiteCode"/>' tasevastaavaa ei löydy.
+                </source>
+                <target>Toimituskohteen '<x id="PH" equiv-text="deliverySiteCode"/>' tasevastaavaa ei löydy.
+                </target>
+            </trans-unit>
+            <trans-unit id="delivery-site-consumption">
+                <source>Mittaustiedot</source>
+                <target>Mittaustiedot</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-contracts-not-found">
+                <source>Toimituskohteelle '<x id="PH" equiv-text="deliverySiteCode"/>' ei löydy sopimuksia.
+                </source>
+                <target>Toimituskohteelle '<x id="PH" equiv-text="deliverySiteCode"/>' ei löydy sopimuksia.
+                </target>
+            </trans-unit>
+            <trans-unit id="delivery-site-current-supplier">
+                <source>Nykyinen myyjä</source>
+                <target>Nykyinen myyjä</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-detailed-information">
+                <source>Yksityiskohtaiset tiedot</source>
+                <target>Yksityiskohtaiset tiedot</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-e-y-c">
+                <source>Ennuste</source>
+                <target>Ennuste</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-enter-edit-meter-reading">
+                <source>Lisää/muuta lukemaa</source>
+                <target>Lisää/muuta lukemaa</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-errands-not-found">
+                <source>Asiakkaalle '<x id="PH" equiv-text="this.customerData?.code"/>' ei löydy tapahtumia.
+                </source>
+                <target>Asiakkaalle '<x id="PH" equiv-text="this.customerData?.code"/>' ei löydy tapahtumia.
+                </target>
+            </trans-unit>
+            <trans-unit id="delivery-site-fuse-size">
+                <source>Sulakekoko</source>
+                <target>Sulakekoko</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-grid-area">
+                <source>Verkko</source>
+                <target>Verkko</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-header">
+                <source>Virhe</source>
+                <target>Virhe</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-linked-no">
+                <source>Rinnakkaiskäyttöpaikka</source>
+                <target>Rinnakkaiskäyttöpaikka</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-meter-number">
+                <source>Mittarinumero</source>
+                <target>Mittarinumero</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-meter-point-subtype">
+                <source>Toimituskohteen alityyppi</source>
+                <target>Toimituskohteen alityyppi</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-meter-point-type-consumption">
+                <source>Kulutus</source>
+                <target>Kulutus</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-meter-point-type-consumptionCombined">
+                <source>Kulutus, yhteinen</source>
+                <target>Kulutus, yhteinen</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-meter-point-type-consumptionCombinedNormal">
+                <source>Kulutus, yhteinen, normaali</source>
+                <target>Kulutus, yhteinen, normaali</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-meter-point-type-exchange">
+                <source>Siirto</source>
+                <target>Siirto</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-meter-point-type-production">
+                <source>Pientuotanto</source>
+                <target>Pientuotanto</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-meter-point-type-productionCombined">
+                <source>Pientuotanto, yhteinen</source>
+                <target>Pientuotanto, yhteinen</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-meter-point-type-productionCombinedNormal">
+                <source>Tuotanto, yhteinen, normaali</source>
+                <target>Tuotanto, yhteinen, normaali</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-meter-point-type-unknown">
+                <source>Tuntematon</source>
+                <target>Tuntematon</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-move-out">
+                <source>Muuta ulosmuuttoa</source>
+                <target>Muuta ulosmuuttoa</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-new-errand">
+                <source>Lisää tapahtuma</source>
+                <target>Lisää tapahtuma</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-no">
+                <source>Toimituskohteen tunnus</source>
+                <target>Toimituskohteen tunnus</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-not-found">
+                <source>Toimituskohdetta '<x id="PH" equiv-text="deliverySiteCode"/>' ei löydy.
+                </source>
+                <target>Toimituskohdetta '<x id="PH" equiv-text="deliverySiteCode"/>' ei löydy.
+                </target>
+            </trans-unit>
+            <trans-unit id="delivery-site-number">
+                <source>Toimituskohteen tunnus</source>
+                <target>Toimituskohteen tunnus</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-open-in-tree-view">
+                <source>Avaa puunäkymässä</source>
+                <target>Avaa puunäkymässä</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-address">
+                <source>Osoite</source>
+                <target>Osoite</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-balance-responsible">
+                <source>Tasevastaava</source>
+                <target>Tasevastaava</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-code">
+                <source>Tunnus</source>
+                <target>Tunnus</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-current-supplier">
+                <source>Nykyinen myyjä</source>
+                <target>Nykyinen myyjä</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-estimated-yearly-consumption">
+                <source>Vuosiennuste</source>
+                <target>Vuosiennuste</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-fuse-size">
+                <source>Sulakekoko</source>
+                <target>Sulakekoko</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-grid-name">
+                <source>Verkon nimi</source>
+                <target>Verkon nimi</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-linked-metering-point">
+                <source>Rinnakkaiskäyttöpaikka</source>
+                <target>Rinnakkaiskäyttöpaikka</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-meter-point-type">
+                <source>Toimituskohteen tyyppi</source>
+                <target>Toimituskohteen tyyppi</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-metering-point-number">
+                <source>Mittauspisteen tunnus</source>
+                <target>Mittauspisteen tunnus</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-sub-type">
+                <source>Alityyppi</source>
+                <target>Alityyppi</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-technical-status">
+                <source>Tekninen tila</source>
+                <target>Tekninen tila</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-power-suppliers-header">
+                <source>Virhe</source>
+                <target>Virhe</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-power-suppliers-not-found">
+                <source>Toimituskohteelle '<x id="PH" equiv-text="deliverySiteCode"/>' ei löydy sähköntoimittajia.
+                </source>
+                <target>Toimituskohteelle '<x id="PH" equiv-text="deliverySiteCode"/>' ei löydy sähköntoimittajia.
+                </target>
+            </trans-unit>
+            <trans-unit id="delivery-site-service-site-type">
+                <source>Palvelukohteen tyyppi</source>
+                <target>Palvelukohteen tyyppi</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-service-type">
+                <source>Palvelutyyppi</source>
+                <target>Palvelutyyppi</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-service-type-districtCooling">
+                <source>Jäähdytys</source>
+                <target>Jäähdytys</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-service-type-districtHeating">
+                <source>Kaukolämpö</source>
+                <target>Kaukolämpö</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-service-type-electricity">
+                <source>Sähkö</source>
+                <target>Sähkö</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-service-type-electricity-Production">
+                <source>Sähkön tuotanto</source>
+                <target>Sähkön tuotanto</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-service-type-gas">
+                <source>Kaasu</source>
+                <target>Kaasu</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-service-type-internet">
+                <source>Internet</source>
+                <target>Internet</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-service-type-steam">
+                <source>Höyry</source>
+                <target>Höyry</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-service-type-unknown">
+                <source>Tuntematon</source>
+                <target>Tuntematon</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-status-closed">
+                <source>Päätetty</source>
+                <target>Päätetty</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-status-connected">
+                <source>Kytketty</source>
+                <target>Kytketty</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-status-disconnected">
+                <source>Katkaistu</source>
+                <target>Katkaistu</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-status-expired">
+                <source>Purettu</source>
+                <target>Purettu</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-status-inDismounting">
+                <source>Purettavana</source>
+                <target>Purettavana</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-status-potential">
+                <source>Potentiaalinen</source>
+                <target>Potentiaalinen</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-status-unknown">
+                <source>Tuntematon</source>
+                <target>Tuntematon</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-technical-status">
+                <source>Tekninen tila</source>
+                <target>Tekninen tila</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-type">
+                <source>Toimituskohteen tyyppi</source>
+                <target>Toimituskohteen tyyppi</target>
+            </trans-unit>
+            <trans-unit id="delivery-sites">
+                <source>Toimituskohteet</source>
+                <target>Toimituskohteet</target>
+            </trans-unit>
+            <trans-unit id="description">
+                <source>Kuvaus</source>
+                <target>Kuvaus</target>
+            </trans-unit>
+            <trans-unit id="end-date">
+                <source>Päättymispäivä</source>
+                <target>Päättymispäivä</target>
+            </trans-unit>
+            <trans-unit id="energy-area">
+                <source>Energia-alue</source>
+                <target>Energia-alue</target>
+            </trans-unit>
+            <trans-unit id="energy-tax-class">
+                <source>Sähköveroluokka</source>
+                <target>Sähköveroluokka</target>
+            </trans-unit>
+            <trans-unit id="errand">
+                <source>Tapahtumat</source>
+                <target>Tapahtumat</target>
+            </trans-unit>
+            <trans-unit id="errand-clerk-header">
+                <source>Omat tapahtumat</source>
+                <target>Omat tapahtumat</target>
+            </trans-unit>
+            <trans-unit id="errand-group-header">
+                <source>Ryhmän tapahtumat</source>
+                <target>Ryhmän tapahtumat</target>
+            </trans-unit>
+            <trans-unit id="errand-new-errand">
+                <source>Lisää tapahtuma</source>
+                <target>Lisää tapahtuma</target>
+            </trans-unit>
+            <trans-unit id="errand-overview-new-customer-errand">
+                <source>Lisää asiakkaan tapahtuma</source>
+                <target>Lisää asiakkaan tapahtuma</target>
+            </trans-unit>
+            <trans-unit id="errand-overview-view-all-errands">
+                <source>Näytä kaikki tapahtumat</source>
+                <target>Näytä kaikki tapahtumat</target>
+            </trans-unit>
+            <trans-unit id="errands">
+                <source>Tapahtumat</source>
+                <target>Tapahtumat</target>
+            </trans-unit>
+            <trans-unit id="eyc-valud-from">
+                <source>Ennuste</source>
+                <target>Ennuste</target>
+            </trans-unit>
+            <trans-unit id="false">
+                <source>Ei</source>
+                <target>Ei</target>
+            </trans-unit>
+            <trans-unit id="favourite-customer-delete-fail">
+                <source>Asiakkaan
+                    <x id="PH" equiv-text="customer.name"/>
+                    poistaminen valittujen asiakkaiden listalta epäonnistui. Yritä myöhemmin uudelleen.
+                </source>
+                <target>Asiakkaan
+                    <x id="PH" equiv-text="customer.name"/>
+                    poistaminen valittujen asiakkaiden listalta epäonnistui. Yritä myöhemmin uudelleen.
+                </target>
+            </trans-unit>
+            <trans-unit id="favourite-customer-delete-notification">
+                <source>Asiakas
+                    <x id="PH" equiv-text="customer.name"/>
+                    on poistettu valittujen asiakkaiden listaltasi.
+                </source>
+                <target>Asiakas
+                    <x id="PH" equiv-text="customer.name"/>
+                    on poistettu valittujen asiakkaiden listaltasi.
+                </target>
+            </trans-unit>
+            <trans-unit id="favourite-customers-header">
+                <source>Valitut asiakkaat</source>
+                <target>Valitut asiakkaat</target>
+            </trans-unit>
+            <trans-unit id="favourite-customers-not-found">
+                <source>Suosikkiasiakkaita ei löydy. Voit valita asiakkaan suosikkiasiakaslistalle asiakastietojen
+                    kautta.
+                </source>
+                <target>Suosikkiasiakkaita ei löydy. Voit valita asiakkaan suosikkiasiakaslistalle asiakastietojen
+                    kautta.
+                </target>
+            </trans-unit>
+            <trans-unit id="free-text-search-placeholder">
+                <source>Hakuarvo</source>
+                <target>Hakuarvo</target>
+            </trans-unit>
+            <trans-unit id="fuse-size">
+                <source>Sulakekoko</source>
+                <target>Sulakekoko</target>
+            </trans-unit>
+            <trans-unit id="grid-area">
+                <source>Verkko</source>
+                <target>Verkko</target>
+            </trans-unit>
+            <trans-unit id="grid-price-area">
+                <source>Verkon hinta-alue</source>
+                <target>Verkon hinta-alue</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-advance">
+                <source>Ennakot</source>
+                <target>Ennakot</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-debt-collection-fee">
+                <source>Perinnän maksut</source>
+                <target>Perinnän maksut</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-debt-collection-interest">
+                <source>Perinnän korot</source>
+                <target>Perinnän korot</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-deposit">
+                <source>Vakuudet</source>
+                <target>Vakuudet</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-invoiced-current-year">
+                <source>Laskutettu - kuluva vuosi</source>
+                <target>Laskutettu - kuluva vuosi</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-invoiced-previous-year">
+                <source>Laskutettu - edellinen vuosi</source>
+                <target>Laskutettu - edellinen vuosi</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-loss">
+                <source>Luottotappiot</source>
+                <target>Luottotappiot</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-on-account">
+                <source>Asiakassaamiset</source>
+                <target>Asiakassaamiset</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-payment">
+                <source>Hyvitykset</source>
+                <target>Hyvitykset</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-pti">
+                <source>Läpilaskutetut</source>
+                <target>Läpilaskutetut</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-reversed">
+                <source>Perutut</source>
+                <target>Perutut</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-unknown">
+                <source>Tuntematon</source>
+                <target>Tuntematon</target>
+            </trans-unit>
+            <trans-unit id="invoice-distribution-methods-not-found">
+                <source>Laskun lähetystapoja ei löydy.</source>
+                <target>Laskun lähetystapoja ei löydy.</target>
+            </trans-unit>
+            <trans-unit id="invoice-end-invoiced">
+                <source>Loppuun laskutettu</source>
+                <target>Loppuun laskutettu</target>
+            </trans-unit>
+            <trans-unit id="invoice-not-end-invoiced">
+                <source>Ei loppuun laskutettu</source>
+                <target>Ei loppuun laskutettu</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-address">
+                <source>Osoite:</source>
+                <target>Osoite:</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-amount">
+                <source>Summa</source>
+                <target>Summa</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-collection-status">
+                <source>Perinnän tilanne</source>
+                <target>Perinnän tilanne</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-credit">
+                <source>Hyvitä</source>
+                <target>Hyvitä</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-direct-debit-information">
+                <source>Suoramaksu käytössä</source>
+                <target>Suoramaksu käytössä</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-direct-debit-information-no">
+                <source>Ei</source>
+                <target>Ei</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-direct-debit-information-yes">
+                <source>Kyllä</source>
+                <target>Kyllä</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-due-date">
+                <source>Eräpäivä</source>
+                <target>Eräpäivä</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-email">
+                <source>Sähköposti:</source>
+                <target>Sähköposti:</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-end-date">
+                <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Päättymispäivä:
+                    <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>
+                </source>
+                <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Päättymispäivä:
+                    <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>
+                </target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-instalment-plan">
+                <source>Maksusuunnitelma</source>
+                <target>Maksusuunnitelma</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-invoice-configuration-info">
+                <source>Laskukokoonpanon tiedot:</source>
+                <target>Laskukokoonpanon tiedot:</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-invoice-configuration-number">
+                <source>Laskukokoonpano:</source>
+                <target>Laskukokoonpano:</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-invoice-date">
+                <source>Laskupäivä</source>
+                <target>Laskupäivä</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-invoice-number">
+                <source>Laskunumero</source>
+                <target>Laskunumero</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-invoice-stop">
+                <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Laskutuksen pysäytys:
+                    <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>
+                </source>
+                <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Laskutuksen pysäytys:
+                    <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>
+                </target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-invoice-stop-on-customer">
+                <source>Asiakkaan laskutuksen pysäytys</source>
+                <target>Asiakkaan laskutuksen pysäytys</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-more-invoice-info">
+                <source>Näytä laskun tiedot</source>
+                <target>Näytä laskun tiedot</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-new-errand">
+                <source>Lisää tapahtuma</source>
+                <target>Lisää tapahtuma</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-payment-follow-up">
+                <source>Maksuseuranta</source>
+                <target>Maksuseuranta</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-postponed-date">
+                <source>Lykätty saakka</source>
+                <target>Lykätty saakka</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-postponement">
+                <source>Lykkää eräpäivää</source>
+                <target>Lykkää eräpäivää</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-reason">
+                <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Syy:
+                    <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>
+                </source>
+                <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Syy:
+                    <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>
+                </target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-reminder">
+                <source>Muistutuslasku</source>
+                <target>Muistutuslasku</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-rest-amount">
+                <source>Jäljellä</source>
+                <target>Jäljellä</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-shipment-method">
+                <source>Lähetystapa:</source>
+                <target>Lähetystapa:</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-start-date">
+                <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Alkupäivä:
+                    <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>
+                </source>
+                <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Alkupäivä:
+                    <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>
+                </target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-view-all-invoices">
+                <source>Näytä kaikki laskut</source>
+                <target>Näytä kaikki laskut</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-view-invoice-lines">
+                <source>Näytä laskurivit</source>
+                <target>Näytä laskurivit</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-approved">
+                <source>Hyväksytty</source>
+                <target>Hyväksytty</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-approvedAndPrinted">
+                <source>Hyväksytty ja tulostettu</source>
+                <target>Hyväksytty ja tulostettu</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-approvedFailed">
+                <source>Hyväksyminen epäonnistui</source>
+                <target>Hyväksyminen epäonnistui</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-buildCreateSkeleton">
+                <source>Muodosta laskun malli</source>
+                <target>Muodosta laskun malli</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-calculated">
+                <source>Laskettu</source>
+                <target>Laskettu</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-calculationFailed">
+                <source>Laskenta epäonnistui</source>
+                <target>Laskenta epäonnistui</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-copyPrinted">
+                <source>Tulostekopio muodostettu</source>
+                <target>Tulostekopio muodostettu</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-created">
+                <source>Muodostettu</source>
+                <target>Muodostettu</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-errorInOrderCalculation">
+                <source>Virhe laskurivien laskennassa</source>
+                <target>Virhe laskurivien laskennassa</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-locked">
+                <source>Lukittu</source>
+                <target>Lukittu</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-markedForRerun">
+                <source>Merkitty uudelleen suoritettavaksi</source>
+                <target>Merkitty uudelleen suoritettavaksi</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-ordersCalculated">
+                <source>Laskurivit laskettu</source>
+                <target>Laskurivit laskettu</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-printedNotTransferred">
+                <source>Tulostettu, ei hyväksytty</source>
+                <target>Tulostettu, ei hyväksytty</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-transferred">
+                <source>Hyväksytty</source>
+                <target>Hyväksytty</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-unknown">
+                <source>Tuntematon</source>
+                <target>Tuntematon</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-verified">
+                <source>Tarkistettu</source>
+                <target>Tarkistettu</target>
+            </trans-unit>
+            <trans-unit id="invoice-stop-active">
+                <source>Aktiivinen laskutuksen pysäytys</source>
+                <target>Aktiivinen laskutuksen pysäytys</target>
+            </trans-unit>
+            <trans-unit id="invoice-stop-not-active">
+                <source>Ei aktiivinen laskutuksen pysäytys</source>
+                <target>Ei aktiivinen laskutuksen pysäytys</target>
+            </trans-unit>
+            <trans-unit id="language-en-US">
+                <source>Englanti</source>
+                <target>Englanti</target>
+            </trans-unit>
+            <trans-unit id="language-fi-FI">
+                <source>Suomi</source>
+                <target>Suomi</target>
+            </trans-unit>
+            <trans-unit id="language-nb">
+                <source>Norja</source>
+                <target>Norja</target>
+            </trans-unit>
+            <trans-unit id="language-sv-SE">
+                <source>Ruotsi</source>
+                <target>Ruotsi</target>
+            </trans-unit>
+            <trans-unit id="menu-item-move-in">
+                <source>Sisäänmuutto</source>
+                <target>Sisäänmuutto</target>
+            </trans-unit>
+            <trans-unit id="left-menu-item-new-contract">
+                <source>Uusi sopimus</source>
+                <target>Uusi sopimus</target>
+            </trans-unit>
+            <trans-unit id="menu-item-new-customer">
+                <source>Uusi asiakas</source>
+                <target>Uusi asiakas</target>
+            </trans-unit>
+            <trans-unit id="left-menu-item-open-campaign-member-overview">
+                <source>Avaa kampanjajäsen yhteenveto</source>
+                <target>Avaa kampanjajäsen yhteenveto</target>
+            </trans-unit>
+            <trans-unit id="left-menu-item-open-contracts-overview">
+                <source>Avaa sopimus yhteenveto</source>
+                <target>Avaa sopimus yhteenveto</target>
+            </trans-unit>
+            <trans-unit id="left-menu-item-open-delivery-sites-overview">
+                <source>Avaa toimituskohde yhteenveto</source>
+                <target>Avaa toimituskohde yhteenveto</target>
+            </trans-unit>
+            <trans-unit id="left-menu-item-open-invoices-overview">
+                <source>Avaa lasku yhteenveto</source>
+                <target>Avaa lasku yhteenveto</target>
+            </trans-unit>
+            <trans-unit id="left-menu-item-summary-page">
+                <source>Asiakkaan yhteenveto</source>
+                <target>Asiakkaan yhteenveto</target>
+            </trans-unit>
+            <trans-unit id="measurement-method">
+                <source>Mittaustapa</source>
+                <target>Mittaustapa</target>
+            </trans-unit>
+            <trans-unit id="menu-item-app-link-url-1">
+                <source>Linkki 1</source>
+                <target>Linkki 1</target>
+            </trans-unit>
+            <trans-unit id="menu-item-app-link-url-2">
+                <source>Linkki 2</source>
+                <target>Linkki 2</target>
+            </trans-unit>
+            <trans-unit id="menu-item-home">
+                <source>Etusivu</source>
+                <target>Etusivu</target>
+            </trans-unit>
+            <trans-unit id="menu-item-search">
+                <source>Haku</source>
+                <target>Haku</target>
+            </trans-unit>
+            <trans-unit id="message-exchange">
+                <source>Sanomaliikenne</source>
+                <target>Sanomaliikenne</target>
+            </trans-unit>
+            <trans-unit id="meter-board-number">
+                <source>Mittaritaulun numero</source>
+                <target>Mittaritaulun numero</target>
+            </trans-unit>
+            <trans-unit id="meter-number">
+                <source>Mittarinumero</source>
+                <target>Mittarinumero</target>
+            </trans-unit>
+            <trans-unit id="metering-point-sub-type">
+                <source>Toimituskohteen alityyppi</source>
+                <target>Toimituskohteen alityyppi</target>
+            </trans-unit>
+            <trans-unit id="metering-point-type">
+                <source>Mittaustyyppi</source>
+                <target>Mittaustyyppi</target>
+            </trans-unit>
+            <trans-unit id="meterpoint-code">
+                <source>Mittauspisteen tunnus</source>
+                <target>Mittauspisteen tunnus</target>
+            </trans-unit>
+            <trans-unit id="no-data">
+                <source>Ei tietoa</source>
+                <target>Ei tietoa</target>
+            </trans-unit>
+            <trans-unit id="not-implemented-yet">
+                <source>Ei ole vielä toteutettu.</source>
+                <target>Ei ole vielä toteutettu.</target>
+            </trans-unit>
+            <trans-unit id="quick-links-header">
+                <source>Linkit</source>
+                <target>Linkit</target>
+            </trans-unit>
+            <trans-unit id="recent-customers-header">
+                <source>Viimeisimmät asiakkaat</source>
+                <target>Viimeisimmät asiakkaat</target>
+            </trans-unit>
+            <trans-unit id="recent-customers-not-found">
+                <source>Viimeisimpiä asiakkaita ei löydy.</source>
+                <target>Viimeisimpiä asiakkaita ei löydy.</target>
+            </trans-unit>
+            <trans-unit id="related-delivery-sites">
+                <source>Rinnakkaiskäyttöpaikat</source>
+                <target>Rinnakkaiskäyttöpaikat</target>
+            </trans-unit>
+            <trans-unit id="search-item-accepted">
+                <source>Hyväksytty</source>
+                <target>Hyväksytty</target>
+            </trans-unit>
+            <trans-unit id="search-item-active">
+                <source>Aktiivinen</source>
+                <target>Aktiivinen</target>
+            </trans-unit>
+            <trans-unit id="search-item-address">
+                <source>Osoite</source>
+                <target>Osoite</target>
+            </trans-unit>
+            <trans-unit id="search-item-alias">
+                <source>Alias</source>
+                <target>Alias</target>
+            </trans-unit>
+            <trans-unit id="search-item-alternative-code">
+                <source>Muu tunnus</source>
+                <target>Muu tunnus</target>
+            </trans-unit>
+            <trans-unit id="search-item-apartment-number">
+                <source>Huoneisto</source>
+                <target>Huoneisto</target>
+            </trans-unit>
+            <trans-unit id="search-item-attention">
+                <source>Huomautus</source>
+                <target>Huomautus</target>
+            </trans-unit>
+            <trans-unit id="search-item-care-of">
+                <source>CO</source>
+                <target>CO</target>
+            </trans-unit>
+            <trans-unit id="search-item-category">
+                <source>Sopimustyyppi</source>
+                <target>Sopimustyyppi</target>
+            </trans-unit>
+            <trans-unit id="search-item-change-of-contract">
+                <source>Vaihda sopimus</source>
+                <target>Vaihda sopimus</target>
+            </trans-unit>
+            <trans-unit id="search-item-closed">
+                <source>Päättynyt</source>
+                <target>Päättynyt</target>
+            </trans-unit>
+            <trans-unit id="search-item-code">
+                <source>Tunnus</source>
+                <target>Tunnus</target>
+            </trans-unit>
+            <trans-unit id="search-item-company-name">
+                <source>Yrityksen nimi</source>
+                <target>Yrityksen nimi</target>
+            </trans-unit>
+            <trans-unit id="search-item-configuration-code">
+                <source>Laskukokoonpanon tunnus</source>
+                <target>Laskukokoonpanon tunnus</target>
+            </trans-unit>
+            <trans-unit id="search-item-connected">
+                <source>Kytketty</source>
+                <target>Kytketty</target>
+            </trans-unit>
+            <trans-unit id="search-item-consumption">
+                <source>Kulutus</source>
+                <target>Kulutus</target>
+            </trans-unit>
+            <trans-unit id="search-item-contract">
+                <source>Sopimus</source>
+                <target>Sopimus</target>
+            </trans-unit>
+            <trans-unit id="search-item-contract-end-date">
+                <source>Päättymispäivä</source>
+                <target>Päättymispäivä</target>
+            </trans-unit>
+            <trans-unit id="search-item-contract-start-date">
+                <source>Alkupäivä</source>
+                <target>Alkupäivä</target>
+            </trans-unit>
+            <trans-unit id="search-item-country-code">
+                <source>Maan tunnus</source>
+                <target>Maan tunnus</target>
+            </trans-unit>
+            <trans-unit id="search-item-customer">
+                <source>Asiakas</source>
+                <target>Asiakas</target>
+            </trans-unit>
+            <trans-unit id="search-item-customer-code">
+                <source>Asiakasnumero</source>
+                <target>Asiakasnumero</target>
+            </trans-unit>
+            <trans-unit id="search-item-customer-name">
+                <source>Asiakkaan nimi</source>
+                <target>Asiakkaan nimi</target>
+            </trans-unit>
+            <trans-unit id="search-item-delete-contract">
+                <source>Poista sopimus</source>
+                <target>Poista sopimus</target>
+            </trans-unit>
+            <trans-unit id="search-item-deleted">
+                <source>Poistettu</source>
+                <target>Poistettu</target>
+            </trans-unit>
+            <trans-unit id="search-item-delivery-site">
+                <source>Toimituskohde</source>
+                <target>Toimituskohde</target>
+            </trans-unit>
+            <trans-unit id="search-item-delivery-site-code">
+                <source>Toimituskohteen tunnus</source>
+                <target>Toimituskohteen tunnus</target>
+            </trans-unit>
+            <trans-unit id="search-item-detailed-information">
+                <source>Näytä tiedot</source>
+                <target>Näytä tiedot</target>
+            </trans-unit>
+            <trans-unit id="search-item-disconected">
+                <source>Katkaistu</source>
+                <target>Katkaistu</target>
+            </trans-unit>
+            <trans-unit id="search-item-district-cooling">
+                <source>Jäähdytys</source>
+                <target>Jäähdytys</target>
+            </trans-unit>
+            <trans-unit id="search-item-district-heating">
+                <source>Kaukolämpö</source>
+                <target>Kaukolämpö</target>
+            </trans-unit>
+            <trans-unit id="search-item-due-date">
+                <source>Laskun eräpäivä</source>
+                <target>Laskun eräpäivä</target>
+            </trans-unit>
+            <trans-unit id="search-item-edit-move-in">
+                <source>Muuta sisäänmuuttoa</source>
+                <target>Muuta sisäänmuuttoa</target>
+            </trans-unit>
+            <trans-unit id="search-item-edit-move-out">
+                <source>Muuta ulosmuuttoa</source>
+                <target>Muuta ulosmuuttoa</target>
+            </trans-unit>
+            <trans-unit id="search-item-electricity">
+                <source>Sähkö</source>
+                <target>Sähkö</target>
+            </trans-unit>
+            <trans-unit id="search-item-electricity-retail">
+                <source>Sähkön myynti</source>
+                <target>Sähkön myynti</target>
+            </trans-unit>
+            <trans-unit id="search-item-email">
+                <source>Sähköposti</source>
+                <target>Sähköposti</target>
+            </trans-unit>
+            <trans-unit id="search-item-end-date">
+                <source>Päättymispäivä</source>
+                <target>Päättymispäivä</target>
+            </trans-unit>
+            <trans-unit id="search-item-ended">
+                <source>Päättynyt</source>
+                <target>Päättynyt</target>
+            </trans-unit>
+            <trans-unit id="search-item-ending-of-contract">
+                <source>Sopimuksen päättäminen</source>
+                <target>Sopimuksen päättäminen</target>
+            </trans-unit>
+            <trans-unit id="search-item-expired">
+                <source>Purettu</source>
+                <target>Purettu</target>
+            </trans-unit>
+            <trans-unit id="search-item-first-name">
+                <source>Etunimi</source>
+                <target>Etunimi</target>
+            </trans-unit>
+            <trans-unit id="search-item-flat-number">
+                <source>Asunto</source>
+                <target>Asunto</target>
+            </trans-unit>
+            <trans-unit id="search-item-floor-number">
+                <source>Kerros/Rappu</source>
+                <target>Kerros/Rappu</target>
+            </trans-unit>
+            <trans-unit id="search-item-gas">
+                <source>Kaasu</source>
+                <target>Kaasu</target>
+            </trans-unit>
+            <trans-unit id="search-item-gas-dso">
+                <source>Kaasun siirto</source>
+                <target>Kaasun siirto</target>
+            </trans-unit>
+            <trans-unit id="search-item-gas-retail">
+                <source>Kaasun myynti</source>
+                <target>Kaasun myynti</target>
+            </trans-unit>
+            <trans-unit id="search-item-grid-code">
+                <source>Verkon tunnus</source>
+                <target>Verkon tunnus</target>
+            </trans-unit>
+            <trans-unit id="search-item-grid-name">
+                <source>Verkon nimi</source>
+                <target>Verkon nimi</target>
+            </trans-unit>
+            <trans-unit id="search-item-in-dismounting">
+                <source>Mittauksen poisto menossa</source>
+                <target>Mittauksen poisto menossa</target>
+            </trans-unit>
+            <trans-unit id="search-item-installation">
+                <source>Liittymä</source>
+                <target>Liittymä</target>
+            </trans-unit>
+            <trans-unit id="search-item-internet">
+                <source>Internet</source>
+                <target>Internet</target>
+            </trans-unit>
+            <trans-unit id="search-item-invoice">
+                <source>Lasku</source>
+                <target>Lasku</target>
+            </trans-unit>
+            <trans-unit id="search-item-invoice-address">
+                <source>Laskutusosoite</source>
+                <target>Laskutusosoite</target>
+            </trans-unit>
+            <trans-unit id="search-item-invoice-autogiro-active">
+                <source>Suoramaksu käytössä</source>
+                <target>Suoramaksu käytössä</target>
+            </trans-unit>
+            <trans-unit id="search-item-invoice-configuration">
+                <source>Laskukokoonpano</source>
+                <target>Laskukokoonpano</target>
+            </trans-unit>
+            <trans-unit id="search-item-invoice-configuration-code">
+                <source>Laskukokoonpanon tunnus</source>
+                <target>Laskukokoonpanon tunnus</target>
+            </trans-unit>
+            <trans-unit id="search-item-invoice-current-invoice-group-code">
+                <source>Voimassa olevan laskutusryhmän tunnus</source>
+                <target>Voimassa olevan laskutusryhmän tunnus</target>
+            </trans-unit>
+            <trans-unit id="search-item-invoice-current-pay-term-code">
+                <source>Voimassa olevan maksuehdon tunnus</source>
+                <target>Voimassa olevan maksuehdon tunnus</target>
+            </trans-unit>
+            <trans-unit id="search-item-invoice-date">
+                <source>Laskupäivä</source>
+                <target>Laskupäivä</target>
+            </trans-unit>
+            <trans-unit id="search-item-invoice-distribution-method-code">
+                <source>Laskun lähetystapa</source>
+                <target>Laskun lähetystapa</target>
+            </trans-unit>
+            <trans-unit id="search-item-manage-contract-person">
+                <source>Yhteyshenkilöiden hallinta</source>
+                <target>Yhteyshenkilöiden hallinta</target>
+            </trans-unit>
+            <trans-unit id="search-item-meter-board-number">
+                <source>Mittaritaulun numero</source>
+                <target>Mittaritaulun numero</target>
+            </trans-unit>
+            <trans-unit id="search-item-meter-number">
+                <source>Mittarin numero</source>
+                <target>Mittarin numero</target>
+            </trans-unit>
+            <trans-unit id="search-item-meter-point-type">
+                <source>Toimituskohteen tyyppi</source>
+                <target>Toimituskohteen tyyppi</target>
+            </trans-unit>
+            <trans-unit id="search-item-metering-point-number">
+                <source>Toimituskohteen tunnus</source>
+                <target>Toimituskohteen tunnus</target>
+            </trans-unit>
+            <trans-unit id="search-item-more-contract-info">
+                <source>Näytä kaikki sopimukset</source>
+                <target>Näytä kaikki sopimukset</target>
+            </trans-unit>
+            <trans-unit id="search-item-more-delivery-site-info">
+                <source>Näytä kaikki toimituskohteet</source>
+                <target>Näytä kaikki toimituskohteet</target>
+            </trans-unit>
+            <trans-unit id="search-item-move-out">
+                <source>Ulosmuutto</source>
+                <target>Ulosmuutto</target>
+            </trans-unit>
+            <trans-unit id="search-item-municipality-code">
+                <source>Kunnan tunnus</source>
+                <target>Kunnan tunnus</target>
+            </trans-unit>
+            <trans-unit id="search-item-name">
+                <source>Koko nimi</source>
+                <target>Koko nimi</target>
+            </trans-unit>
+            <trans-unit id="search-item-national-identifier">
+                <source>Henkilö-/Y-tunnus</source>
+                <target>Henkilö-/Y-tunnus</target>
+            </trans-unit>
+            <trans-unit id="search-item-new-errand">
+                <source>Lisää tapahtuma</source>
+                <target>Lisää tapahtuma</target>
+            </trans-unit>
+            <trans-unit id="search-item-object-number">
+                <source>kohdenumero</source>
+                <target>kohdenumero</target>
+            </trans-unit>
+            <trans-unit id="search-item-open-in-tree-view">
+                <source>Avaa puunäkymässä</source>
+                <target>Avaa puunäkymässä</target>
+            </trans-unit>
+            <trans-unit id="search-item-organization">
+                <source>Yritys</source>
+                <target>Yritys</target>
+            </trans-unit>
+            <trans-unit id="search-item-other">
+                <source>Muu</source>
+                <target>Muu</target>
+            </trans-unit>
+            <trans-unit id="search-item-pass-thru-invoicing-dso">
+                <source>Verkon läpilaskutussopimus</source>
+                <target>Verkon läpilaskutussopimus</target>
+            </trans-unit>
+            <trans-unit id="search-item-pass-thru-invoicing-retail">
+                <source>Myyjän läpilaskutussopimus</source>
+                <target>Myyjän läpilaskutussopimus</target>
+            </trans-unit>
+            <trans-unit id="search-item-person">
+                <source>Henkilö</source>
+                <target>Henkilö</target>
+            </trans-unit>
+            <trans-unit id="search-item-phone">
+                <source>Puhelinnumero</source>
+                <target>Puhelinnumero</target>
+            </trans-unit>
+            <trans-unit id="search-item-postal-code">
+                <source>Postinumero</source>
+                <target>Postinumero</target>
+            </trans-unit>
+            <trans-unit id="search-item-potential">
+                <source>Potentiaalinen</source>
+                <target>Potentiaalinen</target>
+            </trans-unit>
+            <trans-unit id="search-item-price-information">
+                <source>Hintatiedot</source>
+                <target>Hintatiedot</target>
+            </trans-unit>
+            <trans-unit id="search-item-prospect">
+                <source>Prospekti</source>
+                <target>Prospekti</target>
+            </trans-unit>
+            <trans-unit id="search-item-rating">
+                <source>Luokitus</source>
+                <target>Luokitus</target>
+            </trans-unit>
+            <trans-unit id="search-item-service-type">
+                <source>Palvelutyyppi</source>
+                <target>Palvelutyyppi</target>
+            </trans-unit>
+            <trans-unit id="search-item-ssn">
+                <source>Henkilö-/Y-tunnus</source>
+                <target>Henkilö-/Y-tunnus</target>
+            </trans-unit>
+            <trans-unit id="search-item-standart-contract-name">
+                <source>Vakiosopimuksen nimi</source>
+                <target>Vakiosopimuksen nimi</target>
+            </trans-unit>
+            <trans-unit id="search-item-start-date">
+                <source>Alkupäivä</source>
+                <target>Alkupäivä</target>
+            </trans-unit>
+            <trans-unit id="search-item-status">
+                <source>Tila</source>
+                <target>Tila</target>
+            </trans-unit>
+            <trans-unit id="search-item-steam">
+                <source>Höyry</source>
+                <target>Höyry</target>
+            </trans-unit>
+            <trans-unit id="search-item-street-name">
+                <source>Kadun nimi</source>
+                <target>Kadun nimi</target>
+            </trans-unit>
+            <trans-unit id="search-item-street-number">
+                <source>Kadun numero</source>
+                <target>Kadun numero</target>
+            </trans-unit>
+            <trans-unit id="search-item-surname">
+                <source>Sukunimi</source>
+                <target>Sukunimi</target>
+            </trans-unit>
+            <trans-unit id="search-item-technical-status">
+                <source>Tekninen tila</source>
+                <target>Tekninen tila</target>
+            </trans-unit>
+            <trans-unit id="search-item-telephone">
+                <source>Puhelinnumero</source>
+                <target>Puhelinnumero</target>
+            </trans-unit>
+            <trans-unit id="search-item-total-amount">
+                <source>Summa</source>
+                <target>Summa</target>
+            </trans-unit>
+            <trans-unit id="search-item-type">
+                <source>Tyyppi</source>
+                <target>Tyyppi</target>
+            </trans-unit>
+            <trans-unit id="search-item-vendor-code">
+                <source>Toimittajan tunnus</source>
+                <target>Toimittajan tunnus</target>
+            </trans-unit>
+            <trans-unit id="search-item-vendor-name">
+                <source>Toimittajan nimi</source>
+                <target>Toimittajan nimi</target>
+            </trans-unit>
+            <trans-unit id="search-item-written">
+                <source>Valmis</source>
+                <target>Valmis</target>
+            </trans-unit>
+            <trans-unit id="service-type">
+                <source>Palvelutyyppi</source>
+                <target>Palvelutyyppi</target>
+            </trans-unit>
+            <trans-unit id="start-date">
+                <source>Alkupäivä</source>
+                <target>Alkupäivä</target>
+            </trans-unit>
+            <trans-unit id="supplier">
+                <source>Sähköntoimittaja</source>
+                <target>Sähköntoimittaja</target>
+            </trans-unit>
+            <trans-unit id="technical-info">
+                <source>Tekniset tiedot</source>
+                <target>Tekniset tiedot</target>
+            </trans-unit>
+            <trans-unit id="technical-status">
+                <source>Tekninen tila</source>
+                <target>Tekninen tila</target>
+            </trans-unit>
+            <trans-unit id="time-statistic-active">
+                <source>Aktiiviset</source>
+                <target>Aktiiviset</target>
+            </trans-unit>
+            <trans-unit id="time-statistic-closed">
+                <source>Päätetty</source>
+                <target>Päätetty</target>
+            </trans-unit>
+            <trans-unit id="time-statistic-future">
+                <source>Tulevat</source>
+                <target>Tulevat</target>
+            </trans-unit>
+            <trans-unit id="time-statistic-historical">
+                <source>Päättyneet</source>
+                <target>Päättyneet</target>
+            </trans-unit>
+            <trans-unit id="time-statistic-in-work">
+                <source>Työn alla</source>
+                <target>Työn alla</target>
+            </trans-unit>
+            <trans-unit id="time-statistic-open">
+                <source>Avoin</source>
+                <target>Avoin</target>
+            </trans-unit>
+            <trans-unit id="time-step">
+                <source>Aika-askel</source>
+                <target>Aika-askel</target>
+            </trans-unit>
+            <trans-unit id="true">
+                <source>Kyllä</source>
+                <target>Kyllä</target>
+            </trans-unit>
+            <trans-unit id="unknown">
+                <source>Tuntematon</source>
+                <target>Tuntematon</target>
+            </trans-unit>
+            <trans-unit id="update-additional-address-fail">
+                <source>Osoitteen muutos epäonnistui.</source>
+                <target>Osoitteen muutos epäonnistui.</target>
+            </trans-unit>
+            <trans-unit id="update-customer-additional-address-header">
+                <source>Virhe</source>
+                <target>Virhe</target>
+            </trans-unit>
+            <trans-unit id="user-customer-type-person">
+                <source>Henkilö</source>
+                <target>Henkilö</target>
+            </trans-unit>
+            <trans-unit id="user-customer-type-company">
+                <source>Yritys</source>
+                <target>Yritys</target>
+            </trans-unit>
+            <trans-unit id="validation-error-bigger-than-maximal">
+                <source>Pituus on suurempi kuin sallittu enimmäismäärä</source>
+                <target>Pituus on suurempi kuin sallittu enimmäismäärä</target>
+            </trans-unit>
+            <trans-unit id="validation-error-incorrect-UUID-format">
+                <source>UUID tunnuksen muoto on virheellinen</source>
+                <target>UUID tunnuksen muoto on virheellinen</target>
+            </trans-unit>
+            <trans-unit id="validation-error-incorrect-date-time-format">
+                <source>Päivämäärän muoto on virheellinen.</source>
+                <target>Päivämäärän muoto on virheellinen.</target>
+            </trans-unit>
+            <trans-unit id="validation-error-out-of-range">
+                <source>Arvo ei ole raja-arvojen sisällä.</source>
+                <target>Arvo ei ole raja-arvojen sisällä.</target>
+            </trans-unit>
+            <trans-unit id="validation-error-required">
+                <source>Arvo on pakollinen tieto.</source>
+                <target>Arvo on pakollinen tieto.</target>
+            </trans-unit>
+            <trans-unit id="validation-error-shorter-than-minimal">
+                <source>Pituus on lyhyempi kuin sallittu vähimmäismäärä.</source>
+                <target>Pituus on lyhyempi kuin sallittu vähimmäismäärä.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
+

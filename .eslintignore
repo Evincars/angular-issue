@@ -1,1 +1,3 @@
 node_modules
+/libs/data-access/src/api/cloud-cis-api-client/**/*.ts
+/libs/data-access/src/api/pas-api-client/**/*.ts

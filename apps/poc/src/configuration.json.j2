@@ -1,0 +1,12 @@
+{
+  "baseApiUrl": "{{ base_api_url }}",
+  "coreApiPath": "{{ core_api_path }}",
+  "pslApiPath": "{{ psl_api_path }}",
+  "tenantId": "brno-power-company",
+  "azureConfiguration": {
+    "clientId": "{{ frontend_app_application_id }}",
+    "authority": "https://login.microsoftonline.com/{{ secondary_tenant_id }}",
+    "redirectUri": "{{ frontend_app_redirect_uri }}",
+    "scopes": "{{ core_api_scope_call }}"
+  }
+}

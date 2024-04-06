@@ -1,0 +1,1994 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd"
+       xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file original="nb" datatype="plaintext" source-language="nb" target-language="nb">
+        <body>
+            <trans-unit id="Invoice">
+                <source>Faktura</source>
+                <target>Faktura</target>
+            </trans-unit>
+            <trans-unit id="actors">
+                <source>Aktører</source>
+                <target>Aktører</target>
+            </trans-unit>
+            <trans-unit id="add-favourite-customer-error">
+                <source>Mislyktes i å legge til
+                    <x id="PH" equiv-text="customer.name"/>
+                    i favoritter. Sjekk kundedataene
+                </source>
+                <target>Mislyktes i å legge til
+                    <x id="PH" equiv-text="customer.name"/>
+                    i favoritter. Sjekk kundedataene
+                </target>
+            </trans-unit>
+            <trans-unit id="add-favourite-customer-exists-notification">
+                <source>kunde
+                    <x id="PH" equiv-text="customer.name"/>
+                    er allerede i dine favoritter
+                </source>
+                <target>kunde
+                    <x id="PH" equiv-text="customer.name"/>
+                    er allerede i dine favoritter
+                </target>
+            </trans-unit>
+            <trans-unit id="add-favourite-customer-notification">
+                <source>Mislyktes med å legge til
+                    <x id="PH" equiv-text="customer.name"/>
+                    i favoritter
+                </source>
+                <target>Mislyktes med å legge til
+                    <x id="PH" equiv-text="customer.name"/>
+                    i favoritter
+                </target>
+            </trans-unit>
+            <trans-unit id="add-favourite-customer-success">
+                <source>Kunde
+                    <x id="PH" equiv-text="customer.name"/>
+                    har blitt lagret i favoritter
+                </source>
+                <target>Kunde
+                    <x id="PH" equiv-text="customer.name"/>
+                    har blitt lagret i favoritter
+                </target>
+            </trans-unit>
+            <trans-unit id="add-favourite-customer-validation-notification">
+                <source>Valideringsfeil har oppstått for
+                    <x id="PH" equiv-text="customer.code"/>
+                    under lagring til favoritter. Orginal feil:
+                </source>
+                <target>Valideringsfeil har oppstått for
+                    <x id="PH" equiv-text="customer.code"/>
+                    under lagring til favoritter. Orginal feil:
+                </target>
+            </trans-unit>
+            <trans-unit id="additional-addresses-not-found">
+                <source>Tilleggsadresse for kunde '<x id="PH" equiv-text="customerCode"/>' finnes ikke.
+                </source>
+                <target>Tilleggsadresse for kunde '<x id="PH" equiv-text="customerCode"/>' finnes ikke.
+                </target>
+            </trans-unit>
+            <trans-unit id="additional-email-types-not-found">
+                <source>Tilleggsepost finnes ikke.</source>
+                <target>Tilleggsepost finnes ikke.</target>
+            </trans-unit>
+            <trans-unit id="additional-emails-not-found">
+                <source>Tilleggsepost for kunde '<x id="PH" equiv-text="customerCode"/>' finnes ikke.
+                </source>
+                <target>Tilleggsepost for kunde '<x id="PH" equiv-text="customerCode"/>' finnes ikke.
+                </target>
+            </trans-unit>
+            <trans-unit id="additional-errands-not-found">
+                <source>Ærende for kunde '<x id="PH" equiv-text="customerCode"/>' finnes ikke.
+                </source>
+                <target>Ærende for kunde '<x id="PH" equiv-text="customerCode"/>' finnes ikke.
+                </target>
+            </trans-unit>
+            <trans-unit id="additional-info">
+                <source>Tilleggsinfo</source>
+                <target>Tilleggsinfo</target>
+            </trans-unit>
+            <trans-unit id="additional-phone-number-types-not-found">
+                <source>Tilleggstelefonnummertype finnes ikke.</source>
+                <target>Tilleggstelefonnummertype finnes ikke.</target>
+            </trans-unit>
+            <trans-unit id="additional-phone-numbers-not-found">
+                <source>Tilleggstelefonnummer for kunde '<x id="PH" equiv-text="customerCode"/>' finnes ikke.
+                </source>
+                <target>Tilleggstelefonnummer for kunde '<x id="PH" equiv-text="customerCode"/>' finnes ikke.
+                </target>
+            </trans-unit>
+            <trans-unit id="address">
+                <source>Adresse</source>
+                <target>Adresse</target>
+            </trans-unit>
+            <trans-unit id="balance-responsible">
+                <source>Balanseansvarlig</source>
+                <target>Balanseansvarlig</target>
+            </trans-unit>
+            <trans-unit id="balance-type">
+                <source>Balansetype</source>
+                <target>Balansetype</target>
+            </trans-unit>
+            <trans-unit id="business-code-name">
+                <source>Foretakskode</source>
+                <target>Foretakskode</target>
+            </trans-unit>
+            <trans-unit id="button-cancel">
+                <source>Avbryt</source>
+                <target>Avbryt</target>
+            </trans-unit>
+            <trans-unit id="button-confirm">
+                <source>Bekreft</source>
+                <target>Bekreft</target>
+            </trans-unit>
+            <trans-unit id="button-remove-address">
+                <source>Slett adresse</source>
+                <target>Slett adresse</target>
+            </trans-unit>
+            <trans-unit id="button-remove-email">
+                <source>Slett epost</source>
+                <target>Slett epost</target>
+            </trans-unit>
+            <trans-unit id="button-remove-phone-number">
+                <source>Slett telefonnummer</source>
+                <target>Slett telefonnummer</target>
+            </trans-unit>
+            <trans-unit id="button-save-uppercase">
+                <source>Lagre</source>
+                <target>Lagre</target>
+            </trans-unit>
+            <trans-unit id="change-log">
+                <source>Endringslogg</source>
+                <target>Endringslogg</target>
+            </trans-unit>
+            <trans-unit id="classification">
+                <source>Klassifisering</source>
+                <target>Klassifisering</target>
+            </trans-unit>
+            <trans-unit id="common-error-header">
+                <source>Feil</source>
+                <target>Feil</target>
+            </trans-unit>
+            <trans-unit id="common-page-not-found">
+                <source>Siden finnes ikke</source>
+                <target>Siden finnes ikke</target>
+            </trans-unit>
+            <trans-unit id="common-page-not-found-text">
+                <source>Siden du leter etter er kanskje slettet, eller så har du angitt feil URL.</source>
+                <target>Siden du leter etter er kanskje slettet, eller så har du angitt feil URL.</target>
+            </trans-unit>
+            <trans-unit id="consumer-code-name">
+                <source>Forbrukskode</source>
+                <target>Forbrukskode</target>
+            </trans-unit>
+            <trans-unit id="consumption">
+                <source>Forbruk</source>
+                <target>Forbruk</target>
+            </trans-unit>
+            <trans-unit id="consumption-type">
+                <source>Forbrukstype</source>
+                <target>Forbrukstype</target>
+            </trans-unit>
+            <trans-unit id="contact-information">
+                <source>Ytterligere kontaktinformasjon</source>
+                <target>Ytterligere kontaktinformasjon</target>
+            </trans-unit>
+            <trans-unit id="contract">
+                <source>Kontrakt</source>
+                <target>Kontrakt</target>
+            </trans-unit>
+            <trans-unit id="contract-category-districtCooling">
+                <source>Fjernkulde</source>
+                <target>Fjernkulde</target>
+            </trans-unit>
+            <trans-unit id="contract-category-districtHeating">
+                <source>Fjernvarme</source>
+                <target>Fjernvarme</target>
+            </trans-unit>
+            <trans-unit id="contract-category-electricityRtl">
+                <source>Strømleverandør</source>
+                <target>Strømleverandør</target>
+            </trans-unit>
+            <trans-unit id="contract-category-gasDso">
+                <source>Naturgass nett</source>
+                <target>Naturgass nett</target>
+            </trans-unit>
+            <trans-unit id="contract-category-gasRtl">
+                <source>Naturgass leverandør</source>
+                <target>Naturgass leverandør</target>
+            </trans-unit>
+            <trans-unit id="contract-category-installation">
+                <source>Installasjon</source>
+                <target>Installasjon</target>
+            </trans-unit>
+            <trans-unit id="contract-category-internet">
+                <source>Internett</source>
+                <target>Internett</target>
+            </trans-unit>
+            <trans-unit id="contract-category-invoiceConfiguration">
+                <source>Fakturakonfigurasjon</source>
+                <target>Fakturakonfigurasjon</target>
+            </trans-unit>
+            <trans-unit id="contract-category-other">
+                <source>Annen</source>
+                <target>Annen</target>
+            </trans-unit>
+            <trans-unit id="contract-category-passThruInvoicingDso">
+                <source>Nett gjennomfakturering</source>
+                <target>Nett gjennomfakturering</target>
+            </trans-unit>
+            <trans-unit id="contract-category-passThruInvoicingRtl">
+                <source>Gjennomfakturering</source>
+                <target>Gjennomfakturering</target>
+            </trans-unit>
+            <trans-unit id="contract-category-unknown">
+                <source>Unknown</source>
+                <target>Unknown</target>
+            </trans-unit>
+            <trans-unit id="contract-change-of-contract">
+                <source>Endring av kontrakt</source>
+                <target>Endring av kontrakt</target>
+            </trans-unit>
+            <trans-unit id="contract-delete-contract">
+                <source>Slett kontrakt</source>
+                <target>Slett kontrakt</target>
+            </trans-unit>
+            <trans-unit id="contract-detailed-information">
+                <source>Detaljert informasjon</source>
+                <target>Detaljert informasjon</target>
+            </trans-unit>
+            <trans-unit id="contract-edit-move-in">
+                <source>Oppdatere innflytt</source>
+                <target>Oppdatere innflytt</target>
+            </trans-unit>
+            <trans-unit id="contract-edit-move-out">
+                <source>Oppdatere utflytt</source>
+                <target>Oppdatere utflytt</target>
+            </trans-unit>
+            <trans-unit id="contract-ending-of-contract">
+                <source>Avslutte kontrakt</source>
+                <target>Avslutte kontrakt</target>
+            </trans-unit>
+            <trans-unit id="contract-manage-contract-person">
+                <source>Håndtere kontraktperson</source>
+                <target>Håndtere kontraktperson</target>
+            </trans-unit>
+            <trans-unit id="contract-new-errand">
+                <source>Nytt ærend</source>
+                <target>Nytt ærend</target>
+            </trans-unit>
+            <trans-unit id="contract-open-in-tree-view">
+                <source>Åpne trestruktur</source>
+                <target>Åpne trestruktur</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-contract-end-date">
+                <source>Sluttdato</source>
+                <target>Sluttdato</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-contract-number">
+                <source>Kontraktsnummer</source>
+                <target>Kontraktsnummer</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-contract-start-date">
+                <source>Startdato</source>
+                <target>Startdato</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-contract-status">
+                <source>Kontraktsstatus</source>
+                <target>Kontraktsstatus</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-contracts">
+                <source>Kontrakter</source>
+                <target>Kontrakter</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-customer-type">
+                <source>Kundetype</source>
+                <target>Kundetype</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-delivery-site-address">
+                <source>Anleggsadresse</source>
+                <target>Anleggsadresse</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-delivery-site-code">
+                <source>Anleggsid</source>
+                <target>Anleggsid</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-ending-reason">
+                <source>Avslutningsårsak</source>
+                <target>Avslutningsårsak</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-invoice-configuration-number">
+                <source>Faktura-konfigurasjonsnummer</source>
+                <target>Faktura-konfigurasjonsnummer</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-last-invoice-date">
+                <source>Siste fakturadato</source>
+                <target>Siste fakturadato</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-product-standard-contract">
+                <source>Produkt/standardkontrakt</source>
+                <target>Produkt/standardkontrakt</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-signature-date">
+                <source>Signaturdato</source>
+                <target>Signaturdato</target>
+            </trans-unit>
+            <trans-unit id="contract-overview-start-reason">
+                <source>Startårsak</source>
+                <target>Startårsak</target>
+            </trans-unit>
+            <trans-unit id="contract-price-information">
+                <source>Prisinformasjon</source>
+                <target>Prisinformasjon</target>
+            </trans-unit>
+            <trans-unit id="contract-status-accepted">
+                <source>Akseptert</source>
+                <target>Akseptert</target>
+            </trans-unit>
+            <trans-unit id="contract-status-deleted">
+                <source>Slettet</source>
+                <target>Slettet</target>
+            </trans-unit>
+            <trans-unit id="contract-status-unknown">
+                <source>Ukjent</source>
+                <target>Ukjent</target>
+            </trans-unit>
+            <trans-unit id="contract-status-written">
+                <source>Skrevet</source>
+                <target>Skrevet</target>
+            </trans-unit>
+            <trans-unit id="contracts">
+                <source>Kontrakter</source>
+                <target>Kontrakter</target>
+            </trans-unit>
+            <trans-unit id="customer-additional-addresses-header">
+                <source>Feil</source>
+                <target>Feil</target>
+            </trans-unit>
+            <trans-unit id="customer-additional-email-types-header">
+                <source>Advarsel</source>
+                <target>Advarsel</target>
+            </trans-unit>
+            <trans-unit id="customer-additional-emails-header">
+                <source>Feil</source>
+                <target>Feil</target>
+            </trans-unit>
+            <trans-unit id="customer-additional-invoice-distribution-methods-header">
+                <source>Advarsel</source>
+                <target>Advarsel</target>
+            </trans-unit>
+            <trans-unit id="customer-additional-phone-numbers-header">
+                <source>Feil</source>
+                <target>Feil</target>
+            </trans-unit>
+            <trans-unit id="customer-additional-phone-numbers-types-header">
+                <source>Advarsel</source>
+                <target>Advarsel</target>
+            </trans-unit>
+            <trans-unit id="customer-contract-header">
+                <source>Feil</source>
+                <target>Feil</target>
+            </trans-unit>
+            <trans-unit id="customer-contract-not-found">
+                <source>Kontrakten finnes ikke</source>
+                <target>Kontrakten finnes ikke</target>
+            </trans-unit>
+            <trans-unit id="customer-contracts-header">
+                <source>Feil</source>
+                <target>Feil</target>
+            </trans-unit>
+            <trans-unit id="customer-delete-action">
+                <source>Er du sikker på at du vil slette kunde
+                    <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>
+                    <x id="INTERPOLATION" equiv-text="{{ data.name }}"/>
+                    <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
+                    fra listen?
+                </source>
+                <target>Er du sikker på at du vil slette kunde
+                    <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>
+                    <x id="INTERPOLATION" equiv-text="{{ data.name }}"/>
+                    <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
+                    fra listen?
+                </target>
+            </trans-unit>
+            <trans-unit id="customer-delete-action-close-button">
+                <source>Avbryt</source>
+                <target>Avbryt</target>
+            </trans-unit>
+            <trans-unit id="customer-delete-action-delete-button">
+                <source>Slettet</source>
+                <target>Slettet</target>
+            </trans-unit>
+            <trans-unit id="customer-delivery-site-header">
+                <source>Feil</source>
+                <target>Feil</target>
+            </trans-unit>
+            <trans-unit id="customer-delivery-site-not-found">
+                <source>Anlegget finnes ikke.</source>
+                <target>Anlegget finnes ikke.</target>
+            </trans-unit>
+            <trans-unit id="customer-errands">
+                <source>Saker</source>
+                <target>Saker</target>
+            </trans-unit>
+            <trans-unit id="customer-errands-header">
+                <source>Feil</source>
+                <target>Feil</target>
+            </trans-unit>
+            <trans-unit id="customer-info-additional-contact-information">
+                <source>Ytterligere kontaktinformasjon</source>
+                <target>Ytterligere kontaktinformasjon</target>
+            </trans-unit>
+            <trans-unit id="customer-info-main-customer">
+                <source>Hovedkunde</source>
+                <target>Hovedkunde</target>
+            </trans-unit>
+            <trans-unit id="customer-logout">
+                <source>Logg ut</source>
+                <target>Logg ut</target>
+            </trans-unit>
+            <trans-unit id="customer-not-found">
+                <source>Kunde med kundenr '[PH:code]' finnes ikke</source>
+                <target>Kunde med kundenr '[PH:code]' finnes ikke</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-additional-address">
+                <source>Tilleggsadresse</source>
+                <target>Tilleggsadresse</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-additional-email">
+                <source>Tilleggsepost</source>
+                <target>Tilleggsepost</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-additional-phone-number">
+                <source>Tilleggstelefonnummer</source>
+                <target>Tilleggstelefonnummer</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-address">
+                <source>Adresse:</source>
+                <target>Adresse:</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-address-type">
+                <source>Adressetype</source>
+                <target>Adressetype</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-apartment">
+                <source>Leilighet</source>
+                <target>Leilighet</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-are-you-sure">
+                <source>Er du sikker?</source>
+                <target>Er du sikker?</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-attention">
+                <source>Att:</source>
+                <target>Att:</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-bank-code">
+                <source>Bank kontonummer</source>
+                <target>Bank kontonummer</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-changed-by">
+                <source>Endret av</source>
+                <target>Endret av</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-changed-date">
+                <source>Endret dato</source>
+                <target>Endret dato</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-channel-name">
+                <source>Kanal</source>
+                <target>Kanal</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-co-address">
+                <source>C/O adresse</source>
+                <target>C/O adresse</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-comment">
+                <source>Kommentar</source>
+                <target>Kommentar</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-connected-to-errand">
+                <source>Koblet til sak</source>
+                <target>Koblet til sak</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-contact">
+                <source>Kontakt</source>
+                <target>Kontakt</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-contact-center">
+                <source>Kundesenter</source>
+                <target>Kundesenter</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-country">
+                <source>Land</source>
+                <target>Land</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-created-by">
+                <source>Opprettet av</source>
+                <target>Opprettet av</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-created-date">
+                <source>Opprettet dato</source>
+                <target>Opprettet dato</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-credit-rating">
+                <source>Kredittvurdering</source>
+                <target>Kredittvurdering</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-customer-code">
+                <source>Kundenummer:</source>
+                <target>Kundenummer:</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-customer-info-uppercase">
+                <source>KUNDEINFO</source>
+                <target>KUNDEINFO</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-customer-type">
+                <source>Kundetype</source>
+                <target>Kundetype</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-delete-item">
+                <source>Slett info</source>
+                <target>Slett info</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-description">
+                <source>Beskrivelse</source>
+                <target>Beskrivelse</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-due-date">
+                <source>Forfallsdato</source>
+                <target>Forfallsdato</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-email">
+                <source>Epost</source>
+                <target>Epost</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-email-type">
+                <source>Epost type</source>
+                <target>Epost type</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-errand-code">
+                <source>Sakskode</source>
+                <target>Sakskode</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-errand-id">
+                <source>SaksID</source>
+                <target>SaksID</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-external-id">
+                <source>Ekstern id</source>
+                <target>Ekstern id</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-finalized-by">
+                <source>Sluttført av</source>
+                <target>Sluttført av</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-finalized-date">
+                <source>Sluttførtdato</source>
+                <target>Sluttførtdato</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-first-name">
+                <source>Fornavn</source>
+                <target>Fornavn</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-floor-number">
+                <source>Etasjenummer</source>
+                <target>Etasjenummer</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-handling-group">
+                <source>Behandles av</source>
+                <target>Behandles av</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-juristic-name">
+                <source>Juridisk navn</source>
+                <target>Juridisk navn</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-last-name">
+                <source>Etternavn</source>
+                <target>Etternavn</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-legal-status">
+                <source>Juridisk status:</source>
+                <target>Juridisk status:</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-mailing-method">
+                <source>Utsendelsemetode</source>
+                <target>Utsendelsemetode</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-main-address">
+                <source>Hovedadresse</source>
+                <target>Hovedadresse</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-main-email">
+                <source>Hoved epost</source>
+                <target>Hoved epost</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-main-phone-number">
+                <source>Hoved telefonnummer</source>
+                <target>Hoved telefonnummer</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-make-a-linked-errand">
+                <source>Lag en linket sak</source>
+                <target>Lag en linket sak</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-not-set">
+                <source>Ikke satt</source>
+                <target>Ikke satt</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-object">
+                <source>Objekt</source>
+                <target>Objekt</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-open-document">
+                <source>Åpne dokument</source>
+                <target>Åpne dokument</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-open-edit-errand">
+                <source>Åpne / editer sak</source>
+                <target>Åpne / editer sak</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-other">
+                <source>Annen</source>
+                <target>Annen</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-phone-number">
+                <source>Telefonnummer</source>
+                <target>Telefonnummer</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-phone-type">
+                <source>Telefontype</source>
+                <target>Telefontype</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-postal-code">
+                <source>Postnummer</source>
+                <target>Postnummer</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-postal-name">
+                <source>Postested</source>
+                <target>Postested</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-ref">
+                <source>Ref</source>
+                <target>Ref</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-remove-errand">
+                <source>Slett sak</source>
+                <target>Slett sak</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-responsible">
+                <source>Ansvarlig</source>
+                <target>Ansvarlig</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-responsible-area">
+                <source>Ansvarlig område</source>
+                <target>Ansvarlig område</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-segment">
+                <source>Segment</source>
+                <target>Segment</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-service-language">
+                <source>Valgt språk</source>
+                <target>Valgt språk</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-source-system">
+                <source>Kildesystem</source>
+                <target>Kildesystem</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-ssn">
+                <source>Fødselsnummer / Organisasjonsnummer</source>
+                <target>Fødselsnummer / Organisasjonsnummer</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-status-name">
+                <source>Status</source>
+                <target>Status</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-street-name">
+                <source>Gatenavn</source>
+                <target>Gatenavn</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-street-number">
+                <source>Gatenummer</source>
+                <target>Gatenummer</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-title">
+                <source>Tittel</source>
+                <target>Tittel</target>
+            </trans-unit>
+            <trans-unit id="customer-ribbon-type">
+                <source>Type</source>
+                <target>Type</target>
+            </trans-unit>
+            <trans-unit id="customer-status-active">
+                <source>Aktiv</source>
+                <target>Aktiv</target>
+            </trans-unit>
+            <trans-unit id="customer-status-ended">
+                <source>Avsluttet</source>
+                <target>Avsluttet</target>
+            </trans-unit>
+            <trans-unit id="customer-status-potential">
+                <source>Potensiell</source>
+                <target>Potensiell</target>
+            </trans-unit>
+            <trans-unit id="customer-status-prospect">
+                <source>Prospekt</source>
+                <target>Prospekt</target>
+            </trans-unit>
+            <trans-unit id="customer-type-company">
+                <source>Bedrift</source>
+                <target>Bedrift</target>
+            </trans-unit>
+            <trans-unit id="customer-type-person">
+                <source>Privat</source>
+                <target>Privat</target>
+            </trans-unit>
+            <trans-unit id="customer-type-unknown">
+                <source>Ukjent</source>
+                <target>Ukjent</target>
+            </trans-unit>
+            <trans-unit id="deactivate-guard-unsaved-changes">
+                <source>Du har ulagrede endringer! Dine endringer vil bli tapt dersom du forlater siden.</source>
+                <target>Du har ulagrede endringer! Dine endringer vil bli tapt dersom du forlater siden.</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-a-f-h">
+                <source>A/F/H</source>
+                <target>A/F/H</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-address">
+                <source>Anleggsadresse</source>
+                <target>Anleggsadresse</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-balance-responsible">
+                <source>Balanseansvarlig</source>
+                <target>Balanseansvarlig</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-balance-responsible-header">
+                <source>Feil</source>
+                <target>Feil</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-balance-responsible-not-found">
+                <source>Anlegg '<x id="PH" equiv-text="deliverySiteCode"/>' BalanceResponsible finnes ikke.
+                </source>
+                <target>Anlegg '<x id="PH" equiv-text="deliverySiteCode"/>' BalanceResponsible finnes ikke.
+                </target>
+            </trans-unit>
+            <trans-unit id="delivery-site-consumption">
+                <source>Forbruk</source>
+                <target>Forbruk</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-contracts-not-found">
+                <source>Kontrakt for anlegg '<x id="PH" equiv-text="deliverySiteCode"/>' finnes ikke.
+                </source>
+                <target>Kontrakt for anlegg '<x id="PH" equiv-text="deliverySiteCode"/>' finnes ikke.
+                </target>
+            </trans-unit>
+            <trans-unit id="delivery-site-current-supplier">
+                <source>Nåværende leverandør</source>
+                <target>Nåværende leverandør</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-detailed-information">
+                <source>Detaljert informasjon</source>
+                <target>Detaljert informasjon</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-e-y-c">
+                <source>EYC</source>
+                <target>EYC</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-enter-edit-meter-reading">
+                <source>Registrer/endre måleravlesing</source>
+                <target>Registrer/endre måleravlesing</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-errands-not-found">
+                <source>Ærende for anlegg '<x id="PH" equiv-text="deliverySiteCode"/>' finnes ikke.
+                </source>
+                <target>Ærende for anlegg '<x id="PH" equiv-text="deliverySiteCode"/>' finnes ikke.
+                </target>
+            </trans-unit>
+            <trans-unit id="delivery-site-fuse-size">
+                <source>Sikringsstørrelse</source>
+                <target>Sikringsstørrelse</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-grid-area">
+                <source>Nettområde</source>
+                <target>Nettområde</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-header">
+                <source>Feil</source>
+                <target>Feil</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-linked-no">
+                <source>Linket anleggsid</source>
+                <target>Linket anleggsid</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-meter-number">
+                <source>Målernummer</source>
+                <target>Målernummer</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-meter-point-subtype">
+                <source>Målerpunkt subtype</source>
+                <target>Målerpunkt subtype</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-meter-point-type-consumption">
+                <source>Forbruk</source>
+                <target>Forbruk</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-meter-point-type-consumptionCombined">
+                <source>Kombinert forbruk</source>
+                <target>Kombinert forbruk</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-meter-point-type-consumptionCombinedNormal">
+                <source>Kombinert forbruk normal</source>
+                <target>Kombinert forbruk normal</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-meter-point-type-exchange">
+                <source>Bytte</source>
+                <target>Bytte</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-meter-point-type-production">
+                <source>Produksjon</source>
+                <target>Produksjon</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-meter-point-type-productionCombined">
+                <source>Kombinert produksjon</source>
+                <target>Kombinert produksjon</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-meter-point-type-productionCombinedNormal">
+                <source>Kombinert produksjon normal</source>
+                <target>Kombinert produksjon normal</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-meter-point-type-unknown">
+                <source>Ukjent</source>
+                <target>Ukjent</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-move-out">
+                <source>Oppdatere utflytt</source>
+                <target>Oppdatere utflytt</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-new-errand">
+                <source>Nytt ærend</source>
+                <target>Nytt ærend</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-no">
+                <source>Anleggsnummer</source>
+                <target>Anleggsnummer</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-not-found">
+                <source>Anlegg '<x id="PH" equiv-text="deliverySiteCode"/>' finnes ikke.
+                </source>
+                <target>Anlegg '<x id="PH" equiv-text="deliverySiteCode"/>' finnes ikke.
+                </target>
+            </trans-unit>
+            <trans-unit id="delivery-site-number">
+                <source>Anleggsnummer</source>
+                <target>Anleggsnummer</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-open-in-tree-view">
+                <source>Åpne trestruktur</source>
+                <target>Åpne trestruktur</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-address">
+                <source>Adresse</source>
+                <target>Adresse</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-balance-responsible">
+                <source>Balanseansvarlig</source>
+                <target>Balanseansvarlig</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-code">
+                <source>Kode</source>
+                <target>Kode</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-current-supplier">
+                <source>Nåværende leverandør</source>
+                <target>Nåværende leverandør</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-estimated-yearly-consumption">
+                <source>Estimert årlig forbruk</source>
+                <target>Estimert årlig forbruk</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-fuse-size">
+                <source>Sikringsstørrelse</source>
+                <target>Sikringsstørrelse</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-grid-name">
+                <source>Nettområde navn</source>
+                <target>Nettområde navn</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-linked-metering-point">
+                <source>Linket målerpunkt</source>
+                <target>Linket målerpunkt</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-meter-point-type">
+                <source>Målepunkttype</source>
+                <target>Målepunkttype</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-metering-point-number">
+                <source>Målepunktid</source>
+                <target>Målepunktid</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-sub-type">
+                <source>Subtype</source>
+                <target>Subtype</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-overview-technical-status">
+                <source>Teknisk status</source>
+                <target>Teknisk status</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-power-suppliers-header">
+                <source>Feil</source>
+                <target>Feil</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-power-suppliers-not-found">
+                <source>Anlegg '<x id="PH" equiv-text="deliverySiteCode"/>' PowerSuppliers finnes ikke.
+                </source>
+                <target>Anlegg '<x id="PH" equiv-text="deliverySiteCode"/>' PowerSuppliers finnes ikke.
+                </target>
+            </trans-unit>
+            <trans-unit id="delivery-site-service-site-type">
+                <source>
+                    Type tjenestested
+                </source>
+                <target>
+                    Type tjenestested
+                </target>
+            </trans-unit>
+            <trans-unit id="delivery-site-service-type">
+                <source>Tjenestetype</source>
+                <target>Tjenestetype</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-service-type-districtCooling">
+                <source>Fjernkulde</source>
+                <target>Fjernkulde</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-service-type-districtHeating">
+                <source>Fjernvarme</source>
+                <target>Fjernvarme</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-service-type-electricity">
+                <source>Strømforbruk</source>
+                <target>Strømforbruk</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-service-type-electricity-Production">
+                <source>El</source>
+                <target>El</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-service-type-gas">
+                <source>Gass</source>
+                <target>Gass</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-service-type-internet">
+                <source>Internett</source>
+                <target>Internett</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-service-type-steam">
+                <source>Damp</source>
+                <target>Damp</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-service-type-unknown">
+                <source>Ukjent</source>
+                <target>Ukjent</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-status-closed">
+                <source>Stengt</source>
+                <target>Stengt</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-status-connected">
+                <source>Spenningsatt</source>
+                <target>Spenningsatt</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-status-disconnected">
+                <source>Utkoblet</source>
+                <target>Utkoblet</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-status-expired">
+                <source>Nedtatt/utgått</source>
+                <target>Nedtatt/utgått</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-status-inDismounting">
+                <source>I demontering</source>
+                <target>I demontering</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-status-potential">
+                <source>Potensiell</source>
+                <target>Potensiell</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-status-unknown">
+                <source>Ukjent</source>
+                <target>Ukjent</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-technical-status">
+                <source>Teknisk status</source>
+                <target>Teknisk status</target>
+            </trans-unit>
+            <trans-unit id="delivery-site-type">
+                <source>Anleggstype</source>
+                <target>Anleggstype</target>
+            </trans-unit>
+            <trans-unit id="delivery-sites">
+                <source>Anlegg</source>
+                <target>Anlegg</target>
+            </trans-unit>
+            <trans-unit id="description">
+                <source>Beskrivelse</source>
+                <target>Beskrivelse</target>
+            </trans-unit>
+            <trans-unit id="end-date">
+                <source>Sluttdato</source>
+                <target>Sluttdato</target>
+            </trans-unit>
+            <trans-unit id="energy-area">
+                <source>Energiområde</source>
+                <target>Energiområde</target>
+            </trans-unit>
+            <trans-unit id="energy-tax-class">
+                <source>Energi-avgiftsklasse</source>
+                <target>Energi-avgiftsklasse</target>
+            </trans-unit>
+            <trans-unit id="errand">
+                <source>Ærend</source>
+                <target>Ærend</target>
+            </trans-unit>
+            <trans-unit id="errand-clerk-header">
+                <source>Ærendebehandler</source>
+                <target>Ærendebehandler</target>
+            </trans-unit>
+            <trans-unit id="errand-group-header">
+                <source>Ærendegruppe</source>
+                <target>Ærendegruppe</target>
+            </trans-unit>
+            <trans-unit id="errand-new-errand">
+                <source>Nytt ærend</source>
+                <target>Nytt ærend</target>
+            </trans-unit>
+            <trans-unit id="errand-overview-new-customer-errand">
+                <source>Nytt kundeærend</source>
+                <target>Nytt kundeærend</target>
+            </trans-unit>
+            <trans-unit id="errand-overview-view-all-errands">
+                <source>Se alle ærender</source>
+                <target>Se alle ærender</target>
+            </trans-unit>
+            <trans-unit id="errands">
+                <source>Saker</source>
+                <target>Saker</target>
+            </trans-unit>
+            <trans-unit id="eyc-valud-from">
+                <source>EYC</source>
+                <target>EYC</target>
+            </trans-unit>
+            <trans-unit id="false">
+                <source>Nei</source>
+                <target>Nei</target>
+            </trans-unit>
+            <trans-unit id="favourite-customer-delete-fail">
+                <source>Et problem har oppstått ved sletting av<x id="PH" equiv-text="customer.name"/>. Prøv igjen
+                    senere.
+                </source>
+                <target>Et problem har oppstått ved sletting av<x id="PH" equiv-text="customer.name"/>. Prøv igjen
+                    senere.
+                </target>
+            </trans-unit>
+            <trans-unit id="favourite-customer-delete-notification">
+                <source>Kunde
+                    <x id="PH" equiv-text="customer.name"/>
+                    ble slettet fra favoritter
+                </source>
+                <target>Kunde
+                    <x id="PH" equiv-text="customer.name"/>
+                    ble slettet fra favoritter
+                </target>
+            </trans-unit>
+            <trans-unit id="favourite-customers-header">
+                <source>Favorittkunder</source>
+                <target>Favorittkunder</target>
+            </trans-unit>
+            <trans-unit id="favourite-customers-not-found">
+                <source>Ingen favorittkunder funnet. Du kan markere kunde som favoritt i kundedetaljer.</source>
+                <target>Ingen favorittkunder funnet. Du kan markere kunde som favoritt i kundedetaljer.</target>
+            </trans-unit>
+            <trans-unit id="free-text-search-placeholder">
+                <source>Søkeverdi</source>
+                <target>Søkeverdi</target>
+            </trans-unit>
+            <trans-unit id="fuse-size">
+                <source>Sikringsstørrelse</source>
+                <target>Sikringsstørrelse</target>
+            </trans-unit>
+            <trans-unit id="grid-area">
+                <source>Nettområde</source>
+                <target>Nettområde</target>
+            </trans-unit>
+            <trans-unit id="grid-price-area">
+                <source>Nett prisområde</source>
+                <target>Nett prisområde</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-advance">
+                <source>Forskudd</source>
+                <target>Forskudd</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-debt-collection-fee">
+                <source>Inkassoavgift</source>
+                <target>Inkassoavgift</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-debt-collection-interest">
+                <source>Inkassorenter</source>
+                <target>Inkassorenter</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-deposit">
+                <source>Depositum</source>
+                <target>Depositum</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-invoiced-current-year">
+                <source>Fakturert inneværende år</source>
+                <target>Fakturert inneværende år</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-invoiced-previous-year">
+                <source>Fakturert ifjor</source>
+                <target>Fakturert ifjor</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-loss">
+                <source>Tap</source>
+                <target>Tap</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-on-account">
+                <source>Akonto</source>
+                <target>Akonto</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-payment">
+                <source>Betaling</source>
+                <target>Betaling</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-pti">
+                <source>PTI</source>
+                <target>PTI</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-reversed">
+                <source>Reversert</source>
+                <target>Reversert</target>
+            </trans-unit>
+            <trans-unit id="invoice-balance-type-unknown">
+                <source>Ukjent</source>
+                <target>Ukjent</target>
+            </trans-unit>
+            <trans-unit id="invoice-distribution-methods-not-found">
+                <source>Fatura-distribusjonsmetode finnes ikke.</source>
+                <target>Fatura-distribusjonsmetode finnes ikke.</target>
+            </trans-unit>
+            <trans-unit id="invoice-end-invoiced">
+                <source>Sluttfakturert</source>
+                <target>Sluttfakturert</target>
+            </trans-unit>
+            <trans-unit id="invoice-not-end-invoiced">
+                <source>Ikke sluttfakturert</source>
+                <target>Ikke sluttfakturert</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-address">
+                <source>Adresse:</source>
+                <target>Adresse:</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-amount">
+                <source>Beløp</source>
+                <target>Beløp</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-collection-status">
+                <source>Oppfølgingsstatus</source>
+                <target>Oppfølgingsstatus</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-credit">
+                <source>Kredit</source>
+                <target>Kredit</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-direct-debit-information">
+                <source>Avtalegiroinformasjon</source>
+                <target>Avtalegiroinformasjon</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-direct-debit-information-no">
+                <source>Nei</source>
+                <target>Nei</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-direct-debit-information-yes">
+                <source>Ja</source>
+                <target>Ja</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-due-date">
+                <source>Forfallsdato</source>
+                <target>Forfallsdato</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-email">
+                <source>Epost:</source>
+                <target>Epost:</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-end-date">
+                <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Sluttdato:
+                    <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>
+                </source>
+                <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Sluttdato:
+                    <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>
+                </target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-instalment-plan">
+                <source>Avbetalingsplan</source>
+                <target>Avbetalingsplan</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-invoice-configuration-info">
+                <source>Fakturakonfigurasjonsinfo:</source>
+                <target>Fakturakonfigurasjonsinfo:</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-invoice-configuration-number">
+                <source>Fakturakonfigurasjonsnr.</source>
+                <target>Fakturakonfigurasjonsnr.</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-invoice-date">
+                <source>Fakturadato</source>
+                <target>Fakturadato</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-invoice-number">
+                <source>Fakturanummer</source>
+                <target>Fakturanummer</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-invoice-stop">
+                <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Fakturastopp:
+                    <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>
+                </source>
+                <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Fakturastopp:
+                    <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>
+                </target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-invoice-stop-on-customer">
+                <source>Fakturastopp på kunde</source>
+                <target>Fakturastopp på kunde</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-more-invoice-info">
+                <source>Ytterligere fakturainfo</source>
+                <target>Ytterligere fakturainfo</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-new-errand">
+                <source>Nytt ærend</source>
+                <target>Nytt ærend</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-payment-follow-up">
+                <source>Betalingsoppfølging</source>
+                <target>Betalingsoppfølging</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-postponed-date">
+                <source>Utsettelsesdato</source>
+                <target>Utsettelsesdato</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-postponement">
+                <source>Utsettelse</source>
+                <target>Utsettelse</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-reason">
+                <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Årsak:
+                    <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>
+                </source>
+                <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Årsak:
+                    <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>
+                </target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-reminder">
+                <source>Påminnelse</source>
+                <target>Påminnelse</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-rest-amount">
+                <source>Restbeløp</source>
+                <target>Restbeløp</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-shipment-method">
+                <source>Forsendelsesmetode</source>
+                <target>Forsendelsesmetode</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-start-date">
+                <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Startdato:
+                    <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>
+                </source>
+                <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Startdato:
+                    <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>
+                </target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-view-all-invoices">
+                <source>Se alle fakturaer</source>
+                <target>Se alle fakturaer</target>
+            </trans-unit>
+            <trans-unit id="invoice-overview-view-invoice-lines">
+                <source>Se alle fakturalinjer</source>
+                <target>Se alle fakturalinjer</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-approved">
+                <source>Godkjent</source>
+                <target>Godkjent</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-approvedAndPrinted">
+                <source>Godkjent og utskrevet</source>
+                <target>Godkjent og utskrevet</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-approvedFailed">
+                <source>Godkjenning mislyktes</source>
+                <target>Godkjenning mislyktes</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-buildCreateSkeleton">
+                <source>Skape fakturaskjellet</source>
+                <target>Skape fakturaskjellet</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-calculated">
+                <source>Beregnet</source>
+                <target>Beregnet</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-calculationFailed">
+                <source>Beregning mislyktes</source>
+                <target>Beregning mislyktes</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-copyPrinted">
+                <source>Kopi skrevet ut</source>
+                <target>Kopi skrevet ut</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-created">
+                <source>Opprettet</source>
+                <target>Opprettet</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-errorInOrderCalculation">
+                <source>Feil i Ordreberegning</source>
+                <target>Feil i Ordreberegning</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-locked">
+                <source>Låst</source>
+                <target>Låst</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-markedForRerun">
+                <source>Merket for omstart</source>
+                <target>Merket for omstart</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-ordersCalculated">
+                <source>Ordre beregnet</source>
+                <target>Ordre beregnet</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-printedNotTransferred">
+                <source>Utskrevet Ikke overf�rt</source>
+                <target>Utskrevet Ikke overf�rt</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-transferred">
+                <source>Overf�rt</source>
+                <target>Overf�rt</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-unknown">
+                <source>Ukjent</source>
+                <target>Ukjent</target>
+            </trans-unit>
+            <trans-unit id="invoice-status-verified">
+                <source>Verifisert</source>
+                <target>Verifisert</target>
+            </trans-unit>
+            <trans-unit id="invoice-stop-active">
+                <source>Fakturastopp aktiv</source>
+                <target>Fakturastopp aktiv</target>
+            </trans-unit>
+            <trans-unit id="invoice-stop-not-active">
+                <source>Fakturastopp ikke aktiv</source>
+                <target>Fakturastopp ikke aktiv</target>
+            </trans-unit>
+            <trans-unit id="language-en-US">
+                <source>Engelsk</source>
+                <target>Engelsk</target>
+            </trans-unit>
+            <trans-unit id="language-fi-FI">
+                <source>Finsk</source>
+                <target>Finsk</target>
+            </trans-unit>
+            <trans-unit id="language-nb">
+                <source>Norsk</source>
+                <target>Norsk</target>
+            </trans-unit>
+            <trans-unit id="language-sv-SE">
+                <source>Svensk</source>
+                <target>Svensk</target>
+            </trans-unit>
+            <trans-unit id="menu-item-move-in">
+                <source>Innflytt</source>
+                <target>Innflytt</target>
+            </trans-unit>
+            <trans-unit id="left-menu-item-new-contract">
+                <source>Ny kontrakt</source>
+                <target>Ny kontrakt</target>
+            </trans-unit>
+            <trans-unit id="menu-item-new-customer">
+                <source>Ny kunde</source>
+                <target>Ny kunde</target>
+            </trans-unit>
+            <trans-unit id="left-menu-item-open-campaign-member-overview">
+                <source>Åpne kampanjemedlemsoversikten</source>
+                <target>Åpne kampanjemedlemsoversikten</target>
+            </trans-unit>
+            <trans-unit id="left-menu-item-open-contracts-overview">
+                <source>Åpne kontraktsoversikten</source>
+                <target>Åpne kontraktsoversikten</target>
+            </trans-unit>
+            <trans-unit id="left-menu-item-open-delivery-sites-overview">
+                <source>Åpne anleggsoversikten</source>
+                <target>Åpne anleggsoversikten</target>
+            </trans-unit>
+            <trans-unit id="left-menu-item-open-invoices-overview">
+                <source>Åpne fakturaoversikten</source>
+                <target>Åpne fakturaoversikten</target>
+            </trans-unit>
+            <trans-unit id="left-menu-item-summary-page">
+                <source>Sammendragsside</source>
+                <target>Sammendragsside</target>
+            </trans-unit>
+            <trans-unit id="measurement-method">
+                <source>Målemetode</source>
+                <target>Målemetode</target>
+            </trans-unit>
+            <trans-unit id="menu-item-app-link-url-1">
+                <source>URL til app-link 1</source>
+                <target>URL til app-link 1</target>
+            </trans-unit>
+            <trans-unit id="menu-item-app-link-url-2">
+                <source>URL til app-link 2</source>
+                <target>URL til app-link 2</target>
+            </trans-unit>
+            <trans-unit id="menu-item-home">
+                <source>Hjem</source>
+                <target>Hjem</target>
+            </trans-unit>
+            <trans-unit id="menu-item-search">
+                <source>Søk</source>
+                <target>Søk</target>
+            </trans-unit>
+            <trans-unit id="message-exchange">
+                <source>Meldingsutveksling</source>
+                <target>Meldingsutveksling</target>
+            </trans-unit>
+            <trans-unit id="meter-board-number">
+                <source>Målernummer</source>
+                <target>Målernummer</target>
+            </trans-unit>
+            <trans-unit id="meter-number">
+                <source>Målernummer</source>
+                <target>Målernummer</target>
+            </trans-unit>
+            <trans-unit id="metering-point-sub-type">
+                <source>Målerpunkt subtype</source>
+                <target>Målerpunkt subtype</target>
+            </trans-unit>
+            <trans-unit id="metering-point-type">
+                <source>Målepunkttype</source>
+                <target>Målepunkttype</target>
+            </trans-unit>
+            <trans-unit id="meterpoint-code">
+                <source>Målepunktkode</source>
+                <target>Målepunktkode</target>
+            </trans-unit>
+            <trans-unit id="no-data">
+                <source>Ikke noe data funnet</source>
+                <target>Ikke noe data funnet</target>
+            </trans-unit>
+            <trans-unit id="not-implemented-yet">
+                <source>Ikke implementert ennå</source>
+                <target>Ikke implementert ennå</target>
+            </trans-unit>
+            <trans-unit id="quick-links-header">
+                <source>Hurtigkoblinger</source>
+                <target>Hurtigkoblinger</target>
+            </trans-unit>
+            <trans-unit id="recent-customers-header">
+                <source>Nylige kunder</source>
+                <target>Nylige kunder</target>
+            </trans-unit>
+            <trans-unit id="recent-customers-not-found">
+                <source>Ingen nylige kunder funnet.</source>
+                <target>Ingen nylige kunder funnet.</target>
+            </trans-unit>
+            <trans-unit id="related-delivery-sites">
+                <source>Relaterte anlegg</source>
+                <target>Relaterte anlegg</target>
+            </trans-unit>
+            <trans-unit id="search-item-accepted">
+                <source>Akseptert</source>
+                <target>Akseptert</target>
+            </trans-unit>
+            <trans-unit id="search-item-active">
+                <source>Aktiv</source>
+                <target>Aktiv</target>
+            </trans-unit>
+            <trans-unit id="search-item-address">
+                <source>Adresse</source>
+                <target>Adresse</target>
+            </trans-unit>
+            <trans-unit id="search-item-alias">
+                <source>Alias</source>
+                <target>Alias</target>
+            </trans-unit>
+            <trans-unit id="search-item-alternative-code">
+                <source>Alternativ kode</source>
+                <target>Alternativ kode</target>
+            </trans-unit>
+            <trans-unit id="search-item-apartment-number">
+                <source>Leilighetsnummer</source>
+                <target>Leilighetsnummer</target>
+            </trans-unit>
+            <trans-unit id="search-item-attention">
+                <source>Att:</source>
+                <target>Att:</target>
+            </trans-unit>
+            <trans-unit id="search-item-care-of">
+                <source>C/O</source>
+                <target>C/O</target>
+            </trans-unit>
+            <trans-unit id="search-item-category">
+                <source>Kategori</source>
+                <target>Kategori</target>
+            </trans-unit>
+            <trans-unit id="search-item-change-of-contract">
+                <source>Endring av kontrakt</source>
+                <target>Endring av kontrakt</target>
+            </trans-unit>
+            <trans-unit id="search-item-closed">
+                <source>Stengt</source>
+                <target>Stengt</target>
+            </trans-unit>
+            <trans-unit id="search-item-code">
+                <source>Kode</source>
+                <target>Kode</target>
+            </trans-unit>
+            <trans-unit id="search-item-company-name">
+                <source>Selskapsnavn</source>
+                <target>Selskapsnavn</target>
+            </trans-unit>
+            <trans-unit id="search-item-configuration-code">
+                <source>Konfigurasjonskode</source>
+                <target>Konfigurasjonskode</target>
+            </trans-unit>
+            <trans-unit id="search-item-connected">
+                <source>Tilkoblet</source>
+                <target>Tilkoblet</target>
+            </trans-unit>
+            <trans-unit id="search-item-consumption">
+                <source>Forbruk</source>
+                <target>Forbruk</target>
+            </trans-unit>
+            <trans-unit id="search-item-contract">
+                <source>Kontrakt</source>
+                <target>Kontrakt</target>
+            </trans-unit>
+            <trans-unit id="search-item-contract-end-date">
+                <source>Sluttdato</source>
+                <target>Sluttdato</target>
+            </trans-unit>
+            <trans-unit id="search-item-contract-start-date">
+                <source>Startdato</source>
+                <target>Startdato</target>
+            </trans-unit>
+            <trans-unit id="search-item-country-code">
+                <source>Landskode</source>
+                <target>Landskode</target>
+            </trans-unit>
+            <trans-unit id="search-item-customer">
+                <source>Kunde</source>
+                <target>Kunde</target>
+            </trans-unit>
+            <trans-unit id="search-item-customer-code">
+                <source>Kundenummer</source>
+                <target>Kundenummer</target>
+            </trans-unit>
+            <trans-unit id="search-item-customer-name">
+                <source>Kundenavn</source>
+                <target>Kundenavn</target>
+            </trans-unit>
+            <trans-unit id="search-item-delete-contract">
+                <source>Slett kontrakt</source>
+                <target>Slett kontrakt</target>
+            </trans-unit>
+            <trans-unit id="search-item-deleted">
+                <source>Slettet</source>
+                <target>Slettet</target>
+            </trans-unit>
+            <trans-unit id="search-item-delivery-site">
+                <source>Anlegg</source>
+                <target>Anlegg</target>
+            </trans-unit>
+            <trans-unit id="search-item-delivery-site-code">
+                <source>Anleggsid</source>
+                <target>Anleggsid</target>
+            </trans-unit>
+            <trans-unit id="search-item-detailed-information">
+                <source>Detaljert informasjon</source>
+                <target>Detaljert informasjon</target>
+            </trans-unit>
+            <trans-unit id="search-item-disconected">
+                <source>Koblet fra</source>
+                <target>Koblet fra</target>
+            </trans-unit>
+            <trans-unit id="search-item-district-cooling">
+                <source>Fjernkulde</source>
+                <target>Fjernkulde</target>
+            </trans-unit>
+            <trans-unit id="search-item-district-heating">
+                <source>Fjernvarme</source>
+                <target>Fjernvarme</target>
+            </trans-unit>
+            <trans-unit id="search-item-due-date">
+                <source>Forfallsdato</source>
+                <target>Forfallsdato</target>
+            </trans-unit>
+            <trans-unit id="search-item-edit-move-in">
+                <source>Oppdatere innflytt</source>
+                <target>Oppdatere innflytt</target>
+            </trans-unit>
+            <trans-unit id="search-item-edit-move-out">
+                <source>Oppdatere utflytt</source>
+                <target>Oppdatere utflytt</target>
+            </trans-unit>
+            <trans-unit id="search-item-electricity">
+                <source>Strøm</source>
+                <target>Strøm</target>
+            </trans-unit>
+            <trans-unit id="search-item-electricity-retail">
+                <source>Elektrisitetshandel</source>
+                <target>Elektrisitetshandel</target>
+            </trans-unit>
+            <trans-unit id="search-item-email">
+                <source>E-post</source>
+                <target>E-post</target>
+            </trans-unit>
+            <trans-unit id="search-item-end-date">
+                <source>Sluttdato</source>
+                <target>Sluttdato</target>
+            </trans-unit>
+            <trans-unit id="search-item-ended">
+                <source>Avsluttet</source>
+                <target>Avsluttet</target>
+            </trans-unit>
+            <trans-unit id="search-item-ending-of-contract">
+                <source>Avslutte kontrakt</source>
+                <target>Avslutte kontrakt</target>
+            </trans-unit>
+            <trans-unit id="search-item-expired">
+                <source>Utløpt</source>
+                <target>Utløpt</target>
+            </trans-unit>
+            <trans-unit id="search-item-first-name">
+                <source>Fornavn</source>
+                <target>Fornavn</target>
+            </trans-unit>
+            <trans-unit id="search-item-flat-number">
+                <source>Leilighetsnummer</source>
+                <target>Leilighetsnummer</target>
+            </trans-unit>
+            <trans-unit id="search-item-floor-number">
+                <source>Etasjenummer</source>
+                <target>Etasjenummer</target>
+            </trans-unit>
+            <trans-unit id="search-item-gas">
+                <source>Gass</source>
+                <target>Gass</target>
+            </trans-unit>
+            <trans-unit id="search-item-gas-dso">
+                <source>Gass nett</source>
+                <target>Gass nett</target>
+            </trans-unit>
+            <trans-unit id="search-item-gas-retail">
+                <source>Gass detaljhandel</source>
+                <target>Gass detaljhandel</target>
+            </trans-unit>
+            <trans-unit id="search-item-grid-code">
+                <source>Nettområde</source>
+                <target>Nettområde</target>
+            </trans-unit>
+            <trans-unit id="search-item-grid-name">
+                <source>Nettområde navn</source>
+                <target>Nettområde navn</target>
+            </trans-unit>
+            <trans-unit id="search-item-in-dismounting">
+                <source>Under demontering</source>
+                <target>Under demontering</target>
+            </trans-unit>
+            <trans-unit id="search-item-installation">
+                <source>Installasjon</source>
+                <target>Installasjon</target>
+            </trans-unit>
+            <trans-unit id="search-item-internet">
+                <source>Bredbånd</source>
+                <target>Bredbånd</target>
+            </trans-unit>
+            <trans-unit id="search-item-invoice">
+                <source>Faktura</source>
+                <target>Faktura</target>
+            </trans-unit>
+            <trans-unit id="search-item-invoice-address">
+                <source>Fakturaadresse</source>
+                <target>Fakturaadresse</target>
+            </trans-unit>
+            <trans-unit id="search-item-invoice-autogiro-active">
+                <source>Avtalegiro aktiv</source>
+                <target>Avtalegiro aktiv</target>
+            </trans-unit>
+            <trans-unit id="search-item-invoice-configuration">
+                <source>Fakturakonfigurasjon</source>
+                <target>Fakturakonfigurasjon</target>
+            </trans-unit>
+            <trans-unit id="search-item-invoice-configuration-code">
+                <source>Fakturakonfigurasjonskode</source>
+                <target>Fakturakonfigurasjonskode</target>
+            </trans-unit>
+            <trans-unit id="search-item-invoice-current-invoice-group-code">
+                <source>Gjeldende fakturagruppekode</source>
+                <target>Gjeldende fakturagruppekode</target>
+            </trans-unit>
+            <trans-unit id="search-item-invoice-current-pay-term-code">
+                <source>Gjeldende betalingsbetingelse</source>
+                <target>Gjeldende betalingsbetingelse</target>
+            </trans-unit>
+            <trans-unit id="search-item-invoice-date">
+                <source>Fakturadato</source>
+                <target>Fakturadato</target>
+            </trans-unit>
+            <trans-unit id="search-item-invoice-distribution-method-code">
+                <source>Fakturautsendelsesmetode</source>
+                <target>Fakturautsendelsesmetode</target>
+            </trans-unit>
+            <trans-unit id="search-item-manage-contract-person">
+                <source>Håndtere kontraktperson</source>
+                <target>Håndtere kontraktperson</target>
+            </trans-unit>
+            <trans-unit id="search-item-meter-board-number">
+                <source>Målernummer</source>
+                <target>Målernummer</target>
+            </trans-unit>
+            <trans-unit id="search-item-meter-number">
+                <source>Målernummer</source>
+                <target>Målernummer</target>
+            </trans-unit>
+            <trans-unit id="search-item-meter-point-type">
+                <source>Målepunkttype</source>
+                <target>Målepunkttype</target>
+            </trans-unit>
+            <trans-unit id="search-item-metering-point-number">
+                <source>Målepunktid</source>
+                <target>Målepunktid</target>
+            </trans-unit>
+            <trans-unit id="search-item-more-contract-info">
+                <source>Mer kontraktinfo</source>
+                <target>Mer kontraktinfo</target>
+            </trans-unit>
+            <trans-unit id="search-item-more-delivery-site-info">
+                <source>Ytterligere anleggsinfo</source>
+                <target>Ytterligere anleggsinfo</target>
+            </trans-unit>
+            <trans-unit id="search-item-move-out">
+                <source>Utflytt</source>
+                <target>Utflytt</target>
+            </trans-unit>
+            <trans-unit id="search-item-municipality-code">
+                <source>Kommunekode</source>
+                <target>Kommunekode</target>
+            </trans-unit>
+            <trans-unit id="search-item-name">
+                <source>Navn</source>
+                <target>Navn</target>
+            </trans-unit>
+            <trans-unit id="search-item-national-identifier">
+                <source>Nasjonal identifikator</source>
+                <target>Nasjonal identifikator</target>
+            </trans-unit>
+            <trans-unit id="search-item-new-errand">
+                <source>Nytt ærend</source>
+                <target>Nytt ærend</target>
+            </trans-unit>
+            <trans-unit id="search-item-object-number">
+                <source>Objektnummer</source>
+                <target>Objektnummer</target>
+            </trans-unit>
+            <trans-unit id="search-item-open-in-tree-view">
+                <source>Åpne trestruktur</source>
+                <target>Åpne trestruktur</target>
+            </trans-unit>
+            <trans-unit id="search-item-organization">
+                <source>Organisasjon</source>
+                <target>Organisasjon</target>
+            </trans-unit>
+            <trans-unit id="search-item-other">
+                <source>Annen</source>
+                <target>Annen</target>
+            </trans-unit>
+            <trans-unit id="search-item-pass-thru-invoicing-dso">
+                <source>Samfaktura nett</source>
+                <target>Samfaktura nett</target>
+            </trans-unit>
+            <trans-unit id="search-item-pass-thru-invoicing-retail">
+                <source>Samfaktura strøm</source>
+                <target>Samfaktura strøm</target>
+            </trans-unit>
+            <trans-unit id="search-item-person">
+                <source>Person</source>
+                <target>Person</target>
+            </trans-unit>
+            <trans-unit id="search-item-phone">
+                <source>Telefon</source>
+                <target>Telefon</target>
+            </trans-unit>
+            <trans-unit id="search-item-postal-code">
+                <source>Postnummer</source>
+                <target>Postnummer</target>
+            </trans-unit>
+            <trans-unit id="search-item-potential">
+                <source>Potensiell</source>
+                <target>Potensiell</target>
+            </trans-unit>
+            <trans-unit id="search-item-price-information">
+                <source>Prisinformasjon</source>
+                <target>Prisinformasjon</target>
+            </trans-unit>
+            <trans-unit id="search-item-prospect">
+                <source>Prospekt</source>
+                <target>Prospekt</target>
+            </trans-unit>
+            <trans-unit id="search-item-rating">
+                <source>Vurdering</source>
+                <target>Vurdering</target>
+            </trans-unit>
+            <trans-unit id="search-item-service-type">
+                <source>Tjenestetype</source>
+                <target>Tjenestetype</target>
+            </trans-unit>
+            <trans-unit id="search-item-ssn">
+                <source>Fødselsnr/Orgnr</source>
+                <target>Fødselsnr/Orgnr</target>
+            </trans-unit>
+            <trans-unit id="search-item-standart-contract-name">
+                <source>Standard kontraktsnavn</source>
+                <target>Standard kontraktsnavn</target>
+            </trans-unit>
+            <trans-unit id="search-item-start-date">
+                <source>Startdato</source>
+                <target>Startdato</target>
+            </trans-unit>
+            <trans-unit id="search-item-status">
+                <source>Status</source>
+                <target>Status</target>
+            </trans-unit>
+            <trans-unit id="search-item-steam">
+                <source>Damp</source>
+                <target>Damp</target>
+            </trans-unit>
+            <trans-unit id="search-item-street-name">
+                <source>Gatenavn</source>
+                <target>Gatenavn</target>
+            </trans-unit>
+            <trans-unit id="search-item-street-number">
+                <source>Gatenummer</source>
+                <target>Gatenummer</target>
+            </trans-unit>
+            <trans-unit id="search-item-surname">
+                <source>Etternavn</source>
+                <target>Etternavn</target>
+            </trans-unit>
+            <trans-unit id="search-item-technical-status">
+                <source>Teknisk status</source>
+                <target>Teknisk status</target>
+            </trans-unit>
+            <trans-unit id="search-item-telephone">
+                <source>Telefon</source>
+                <target>Telefon</target>
+            </trans-unit>
+            <trans-unit id="search-item-total-amount">
+                <source>Samlet beløp</source>
+                <target>Samlet beløp</target>
+            </trans-unit>
+            <trans-unit id="search-item-type">
+                <source>Type</source>
+                <target>Type</target>
+            </trans-unit>
+            <trans-unit id="search-item-vendor-code">
+                <source>Leverandørkode</source>
+                <target>Leverandørkode</target>
+            </trans-unit>
+            <trans-unit id="search-item-vendor-name">
+                <source>Leverandørnavn</source>
+                <target>Leverandørnavn</target>
+            </trans-unit>
+            <trans-unit id="search-item-written">
+                <source>Skrevet</source>
+                <target>Skrevet</target>
+            </trans-unit>
+            <trans-unit id="service-type">
+                <source>Tjenestetype</source>
+                <target>Tjenestetype</target>
+            </trans-unit>
+            <trans-unit id="start-date">
+                <source>Startdato</source>
+                <target>Startdato</target>
+            </trans-unit>
+            <trans-unit id="supplier">
+                <source>Leverandør</source>
+                <target>Leverandør</target>
+            </trans-unit>
+            <trans-unit id="technical-info">
+                <source>Teknisk info</source>
+                <target>Teknisk info</target>
+            </trans-unit>
+            <trans-unit id="technical-status">
+                <source>Teknisk status</source>
+                <target>Teknisk status</target>
+            </trans-unit>
+            <trans-unit id="time-statistic-active">
+                <source>Aktiv</source>
+                <target>Aktiv</target>
+            </trans-unit>
+            <trans-unit id="time-statistic-closed">
+                <source>Stengt</source>
+                <target>Stengt</target>
+            </trans-unit>
+            <trans-unit id="time-statistic-future">
+                <source>Fremtid</source>
+                <target>Fremtid</target>
+            </trans-unit>
+            <trans-unit id="time-statistic-historical">
+                <source>Historisk</source>
+                <target>Historisk</target>
+            </trans-unit>
+            <trans-unit id="time-statistic-in-work">
+                <source>I arbeid</source>
+                <target>I arbeid</target>
+            </trans-unit>
+            <trans-unit id="time-statistic-open">
+                <source>Åpen</source>
+                <target>Åpen</target>
+            </trans-unit>
+            <trans-unit id="time-step">
+                <source>Tidssteg</source>
+                <target>Tidssteg</target>
+            </trans-unit>
+            <trans-unit id="true">
+                <source>Ja</source>
+                <target>Ja</target>
+            </trans-unit>
+            <trans-unit id="unknown">
+                <source>Ukjent</source>
+                <target>Ukjent</target>
+            </trans-unit>
+            <trans-unit id="update-additional-address-fail">
+                <source>Oppdatering av ekstraadresse feilet.</source>
+                <target>Oppdatering av ekstraadresse feilet.</target>
+            </trans-unit>
+            <trans-unit id="update-customer-additional-address-header">
+                <source>Feil</source>
+                <target>Feil</target>
+            </trans-unit>
+            <trans-unit id="user-customer-type-person">
+                <source>Person</source>
+                <target>Person</target>
+            </trans-unit>
+            <trans-unit id="user-customer-type-company">
+                <source>Bedrift</source>
+                <target>Bedrift</target>
+            </trans-unit>
+            <trans-unit id="validation-error-bigger-than-maximal">
+                <source>Lengde er større enn maxverdi</source>
+                <target>Lengde er større enn maxverdi</target>
+            </trans-unit>
+            <trans-unit id="validation-error-incorrect-UUID-format">
+                <source>UUID er ikke i korrekt format</source>
+                <target>UUID er ikke i korrekt format</target>
+            </trans-unit>
+            <trans-unit id="validation-error-incorrect-date-time-format">
+                <source>Datotid er ikke i korrekt format</source>
+                <target>Datotid er ikke i korrekt format</target>
+            </trans-unit>
+            <trans-unit id="validation-error-out-of-range">
+                <source>Ikke godkjent verdi</source>
+                <target>Ikke godkjent verdi</target>
+            </trans-unit>
+            <trans-unit id="validation-error-required">
+                <source>Verdi må angis</source>
+                <target>Verdi må angis</target>
+            </trans-unit>
+            <trans-unit id="validation-error-shorter-than-minimal">
+                <source>Lengde er mindre enn minimumsverdi</source>
+                <target>Lengde er mindre enn minimumsverdi</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
+

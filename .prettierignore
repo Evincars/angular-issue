@@ -1,5 +1,14 @@
 # Add files here to ignore them from prettier formatting
+
+/.vscode
+/.angular
+/.husky
+/.idea
 /dist
 /coverage
-/.nx/cache
+/libs/api/src/lib/cloud-cis-api-client/**/*.ts
+/libs/api/src/lib/cloud-cis-api-client-old/**/*.ts
+
 .angular
+
+/.nx/cache

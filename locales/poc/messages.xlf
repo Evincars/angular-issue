@@ -1,0 +1,2813 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="accounting-point" datatype="html">
+        <source>Accounting point details</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">117</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">121</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">126</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/accounting-point-details-grid/accounting-point-details-collapsible.component.ts</context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="accounging-points-detail:Agreements" datatype="html">
+        <source>Agreements</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/feature-accounting-point-detail.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="accounging-points-detail:Actors" datatype="html">
+        <source>Actors</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/feature-accounting-point-detail.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="accounging-points-detail:Meter values" datatype="html">
+        <source>Meter values</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/accounting-point/feature/src/accounting-point-detail/components/feature-accounting-point-detail.component.html</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="agreement-snackbar-title" datatype="html">
+        <source>Agreement</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/data-access/src/store/agreement-store.ts</context>
+          <context context-type="linenumber">132</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/data-access/src/store/agreement-store.ts</context>
+          <context context-type="linenumber">143</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="agreement-has-been-successfully-saved" datatype="html">
+        <source>Agreement has been successfully saved.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/data-access/src/store/agreement-store.ts</context>
+          <context context-type="linenumber">133</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/data-access/src/store/agreement-store.ts</context>
+          <context context-type="linenumber">173</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/data-access/src/store/agreement-store.ts</context>
+          <context context-type="linenumber">212</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/data-access/src/store/agreement-store.ts</context>
+          <context context-type="linenumber">256</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="agreement-failed-to-save" datatype="html">
+        <source>Failed to save agreement.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/data-access/src/store/agreement-store.ts</context>
+          <context context-type="linenumber">144</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/data-access/src/store/agreement-store.ts</context>
+          <context context-type="linenumber">183</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/data-access/src/store/agreement-store.ts</context>
+          <context context-type="linenumber">222</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/data-access/src/store/agreement-store.ts</context>
+          <context context-type="linenumber">266</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="agreement-cancel-snackbar-title" datatype="html">
+        <source>Cancel agreement</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/data-access/src/store/agreement-store.ts</context>
+          <context context-type="linenumber">172</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/data-access/src/store/agreement-store.ts</context>
+          <context context-type="linenumber">182</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="agreement-end-snackbar-title" datatype="html">
+        <source>End agreement</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/data-access/src/store/agreement-store.ts</context>
+          <context context-type="linenumber">211</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/data-access/src/store/agreement-store.ts</context>
+          <context context-type="linenumber">221</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/data-access/src/store/agreement-store.ts</context>
+          <context context-type="linenumber">255</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/data-access/src/store/agreement-store.ts</context>
+          <context context-type="linenumber">265</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="contact-person-info-view-dialog:View constact person information" datatype="html">
+        <source>View contact person information</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-add-contact-person-dialog/agreement-add-contact-person-dialog.component.html</context>
+          <context context-type="linenumber">2,3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/contact-person-edit-dialog/contact-person-edit-dialog.component.html</context>
+          <context context-type="linenumber">2,3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/contact-person-view-dialog/contact-person-view-dialog.component.html</context>
+          <context context-type="linenumber">2,3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-contact-person/contact-person-role-date-dialog/contact-person-role-date-dialog.component.html</context>
+          <context context-type="linenumber">2,3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="button-close-dialog:Close" datatype="html">
+        <source> Close </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-add-contact-person-dialog/agreement-add-contact-person-dialog.component.html</context>
+          <context context-type="linenumber">16,18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/contact-person-edit-dialog/contact-person-edit-dialog.component.html</context>
+          <context context-type="linenumber">12,14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/contact-person-view-dialog/contact-person-view-dialog.component.html</context>
+          <context context-type="linenumber">77,79</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-contact-person/contact-person-role-date-dialog/contact-person-role-date-dialog.component.html</context>
+          <context context-type="linenumber">31,33</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-contact-person/contact-person-role-date-dialog/contact-person-role-date-dialog.component.html</context>
+          <context context-type="linenumber">35,37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="agreement-details" datatype="html">
+        <source>Agreement details</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">91</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">96</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">101</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">106</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">111</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">116</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">121</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">126</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">138</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">142</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">147</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">154</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">163</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">167</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">172</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">187</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">195</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">200</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-collapsible-view/agreement-details-collapsible-view.component.ts</context>
+          <context context-type="linenumber">209</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="agreement-details:Product list" datatype="html">
+        <source>Product list</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-tabs/agreement-details-tabs.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="agreement-details:Price info details" datatype="html">
+        <source>Price info details</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-tabs/agreement-details-tabs.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="agreement-details:Errands" datatype="html">
+        <source>Errands</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-tabs/agreement-details-tabs.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="agreement-details:Change log" datatype="html">
+        <source>Change log</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-tabs/agreement-details-tabs.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="agreement-details:Contact person" datatype="html">
+        <source>Contact person</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/agreement-details-tabs/agreement-details-tabs.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="contact-person-info-view-dialog:contactPerson" datatype="html">
+        <source>Contact Person:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/contact-person-view-dialog/contact-person-view-dialog.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/create-contact-person-component/feature-create-contact-person-component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-contact-person/contact-person-role-date-dialog/contact-person-role-date-dialog.component.html</context>
+          <context context-type="linenumber">11,12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-summary/new-agreement-summary.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="contact-person-info-view-dialog:ID" datatype="html">
+        <source>ID</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/contact-person-view-dialog/contact-person-view-dialog.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="contact-person-info-view-dialog:Code" datatype="html">
+        <source>Code</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/contact-person-view-dialog/contact-person-view-dialog.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="contact-person-info-view-dialog:source" datatype="html">
+        <source>Source</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/contact-person-view-dialog/contact-person-view-dialog.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="contact-person-info-view-dialog:personData" datatype="html">
+        <source>Names:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/contact-person-view-dialog/contact-person-view-dialog.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/contact-person-view-dialog/contact-person-view-dialog.component.html</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="contact-person-info-view-dialog:firstName" datatype="html">
+        <source>First name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/contact-person-view-dialog/contact-person-view-dialog.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="contact-person-info-view-dialog:lastName" datatype="html">
+        <source>Last name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/contact-person-view-dialog/contact-person-view-dialog.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="contact-person-info-view-dialog:otherName" datatype="html">
+        <source>Other name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/contact-person-view-dialog/contact-person-view-dialog.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="contact-person-info-view-dialog:companyData" datatype="html">
+        <source>Contact channels</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/contact-person-view-dialog/contact-person-view-dialog.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/create-contact-person-component/feature-create-contact-person-component.html</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="contact-person-info-view-dialog:channeltype" datatype="html">
+        <source>Type</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/contact-person-view-dialog/contact-person-view-dialog.component.html</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/create-contact-person-component/feature-create-contact-person-component.html</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="contact-person-info-view-dialog:channelValue" datatype="html">
+        <source>Value</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/contact-person-view-dialog/contact-person-view-dialog.component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/create-contact-person-component/feature-create-contact-person-component.html</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="edit-agreement-title:Edit agreement" datatype="html">
+        <source>Edit agreement</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="edit-agreement:Agreement information" datatype="html">
+        <source><x id="START_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&lt;mat-icon&gt;"/>description<x id="CLOSE_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&lt;/mat-icon&gt;"/> Agreement information </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">16,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="edit-agreement:Interruption critical" datatype="html">
+        <source>Interruption critical</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="option-no:No" datatype="html">
+        <source>No</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="optionr-yes:Yes" datatype="html">
+        <source>Yes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="error-value-is-required:Value is required" datatype="html">
+        <source>Value is required</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">91</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">97</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">102</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">107</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">112</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/cancel-agreement-dialog/cancel-agreement-dialog.component.html</context>
+          <context context-type="linenumber">67,69</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/end-agreement-dialog/end-agreement-dialog.component.html</context>
+          <context context-type="linenumber">61,63</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/end-agreement-dialog/end-agreement-dialog.component.html</context>
+          <context context-type="linenumber">78,80</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/create-contact-person-component/feature-create-contact-person-component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/create-contact-person-component/feature-create-contact-person-component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/create-contact-person-component/feature-create-contact-person-component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/create-contact-person-component/feature-create-contact-person-component.html</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/create-contact-person-component/feature-create-contact-person-component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/additional-contact-information/components/additional-address-dialog/additional-address-dialog.component.html</context>
+          <context context-type="linenumber">24,26</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/additional-contact-information/components/additional-contact-channel-dialog/additional-contact-channel-dialog.component.html</context>
+          <context context-type="linenumber">32,34</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/additional-contact-information/components/additional-contact-channel-dialog/additional-contact-channel-dialog.component.html</context>
+          <context context-type="linenumber">41,43</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="edit-agreement:Contact method" datatype="html">
+        <source>Contact method</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="edit-agreement:Tax category" datatype="html">
+        <source>Tax category</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="edit-agreement:Customer specifier" datatype="html">
+        <source>Customer specifier</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b74d92964a4d8a535da4667f86895de4198098ac" datatype="html">
+        <source>Customer specifier</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="edit-agreement:Time period" datatype="html">
+        <source><x id="START_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&lt;mat-icon&gt;"/>access_time<x id="CLOSE_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&lt;/mat-icon&gt;"/> Time period </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">73,75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="edit-agreement:Signature date" datatype="html">
+        <source>Signature date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="error-invalid-date:Invalid date" datatype="html">
+        <source>Invalid date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">89</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">121</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="edit-agreement:Start date" datatype="html">
+        <source>Start date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="edit-agreement:Reason for start" datatype="html">
+        <source>Reason for start</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="edit-agreement:End date" datatype="html">
+        <source>End date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f60960faa2cd3e0db11e48688774d05dfa9d715b" datatype="html">
+        <source>End date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">106</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="edit-agreement:Reason for end" datatype="html">
+        <source>Reason for end</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="button-save-uppercase:Save" datatype="html">
+        <source> Save </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">129,131</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info-dialog/customer-info-dialog.component.html</context>
+          <context context-type="linenumber">41,43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="button-cancel:Cancel" datatype="html">
+        <source> Cancel </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/edit-agreement-dialog/edit-agreement-dialog.component.html</context>
+          <context context-type="linenumber">139,141</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/additional-contact-information/components/additional-address-dialog/additional-address-dialog.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/additional-contact-information/components/additional-contact-channel-dialog/additional-contact-channel-dialog.component.html</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="product-list-table:Product name" datatype="html">
+        <source>Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/product-list-table/product-list-table.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="product-list-table:Status" datatype="html">
+        <source>Status</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/product-list-table/product-list-table.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="product-list-table:Code" datatype="html">
+        <source>Code</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/product-list-table/product-list-table.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="product-list-table:Invoice text" datatype="html">
+        <source>Invoice text</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/product-list-table/product-list-table.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="product-list-table:Product description" datatype="html">
+        <source>Description</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/product-list-table/product-list-table.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="product-list-table:Valid from" datatype="html">
+        <source>Valid from</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/product-list-table/product-list-table.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="product-list-table:Valid to" datatype="html">
+        <source>Valid to</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/product-list-table/product-list-table.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="product-list-table:Vendor" datatype="html">
+        <source>Vendor</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/product-list-table/product-list-table.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="product-list-table:Component name" datatype="html">
+        <source>Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/product-list-table/product-list-table.component.html</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="product-list-table:Component invoice text" datatype="html">
+        <source> Invoice text </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/product-list-table/product-list-table.component.html</context>
+          <context context-type="linenumber">79,81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="product-list-table:Type" datatype="html">
+        <source>Type</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/product-list-table/product-list-table.component.html</context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="product-list-table:Recurrence" datatype="html">
+        <source>Recurrence</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/product-list-table/product-list-table.component.html</context>
+          <context context-type="linenumber">89</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="product-list-table:Value" datatype="html">
+        <source>Value</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/product-list-table/product-list-table.component.html</context>
+          <context context-type="linenumber">93</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="product-list-table:Component description" datatype="html">
+        <source> Description </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/product-list-table/product-list-table.component.html</context>
+          <context context-type="linenumber">98,100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="product-list-table:Quantity unit" datatype="html">
+        <source>Quantity unit</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/product-list-table/product-list-table.component.html</context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="product-list-table:Vat code" datatype="html">
+        <source>Vat code</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-details/components/product-list-table/product-list-table.component.html</context>
+          <context context-type="linenumber">109</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1139035062908604144" datatype="html">
+        <source>@@accounting-point-detail:Agreement category</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/agreement-header-dialog/agreement-header-dialog.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5917370780451808428" datatype="html">
+        <source>@@accounting-point-detail:Agreement no</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/agreement-header-dialog/agreement-header-dialog.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1446773090036773306" datatype="html">
+        <source>@@agreement-detail:Status</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/agreement-header-dialog/agreement-header-dialog.component.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4107988089812995186" datatype="html">
+        <source>@@agreement-detail:Agreement template</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/agreement-header-dialog/agreement-header-dialog.component.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4407309128950297195" datatype="html">
+        <source>@@agreement-detail:Interruption critical</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/agreement-header-dialog/agreement-header-dialog.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7519549144755839502" datatype="html">
+        <source>@@agreement-start-date:Start date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/agreement-header-dialog/agreement-header-dialog.component.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7659961850638004847" datatype="html">
+        <source>@@agreement-reason-reason:Start reason</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/agreement-header-dialog/agreement-header-dialog.component.ts</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8046142639418440764" datatype="html">
+        <source>@@agreement-end-date:End date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/agreement-header-dialog/agreement-header-dialog.component.ts</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2812962955556951393" datatype="html">
+        <source>@@agreement-end-reason:End reason</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/agreement-header-dialog/agreement-header-dialog.component.ts</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5074380332204311940" datatype="html">
+        <source>@@agreement-accounting-point-code:Code</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/agreement-header-dialog/agreement-header-dialog.component.ts</context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7519586170204639532" datatype="html">
+        <source>@@agreement-accounting-point-address:Address</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/agreement-header-dialog/agreement-header-dialog.component.ts</context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6666597141782766080" datatype="html">
+        <source>@@agreement-accounting-point-service-type:Service type</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/agreement-header-dialog/agreement-header-dialog.component.ts</context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6506945361390165197" datatype="html">
+        <source>@@agreement-accounting-point-type:Type</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/agreement-header-dialog/agreement-header-dialog.component.ts</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2662136263264907686" datatype="html">
+        <source>@@agreement-accounting-point-related-identification:Related identification</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/agreement-header-dialog/agreement-header-dialog.component.ts</context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="agreement-cancel-agreement:Cancel agreement" datatype="html">
+        <source> Cancel agreement
+</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/cancel-agreement-dialog/cancel-agreement-dialog.component.html</context>
+          <context context-type="linenumber">1,3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cancel-agreement:Cancel agreement process is in progress" datatype="html">
+        <source> Cancel agreement process is in progress. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/cancel-agreement-dialog/cancel-agreement-dialog.component.html</context>
+          <context context-type="linenumber">22,24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cancel-agreement:Agreement is already cancelled" datatype="html">
+        <source> Agreement is already cancelled </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/cancel-agreement-dialog/cancel-agreement-dialog.component.html</context>
+          <context context-type="linenumber">31,33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cancel-agreement:The agreement cannot be canceled because it has invoices" datatype="html">
+        <source> The agreement cannot be canceled because it has invoices (<x id="INTERPOLATION" equiv-text="{{ invoices?.totalCount }}"/>). </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/cancel-agreement-dialog/cancel-agreement-dialog.component.html</context>
+          <context context-type="linenumber">40,42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cancel-agreement:Reason for cancel" datatype="html">
+        <source>Reason for cancel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/cancel-agreement-dialog/cancel-agreement-dialog.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cancel-agreement:Description" datatype="html">
+        <source>Description</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/cancel-agreement-dialog/cancel-agreement-dialog.component.html</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cancel-agreement:Save" datatype="html">
+        <source> Save </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/cancel-agreement-dialog/cancel-agreement-dialog.component.html</context>
+          <context context-type="linenumber">100,102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cancel-agreement:Cancel" datatype="html">
+        <source> Cancel </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/cancel-agreement-dialog/cancel-agreement-dialog.component.html</context>
+          <context context-type="linenumber">110,112</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="agreement-move-out:End agreement" datatype="html">
+        <source>End agreement</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/end-agreement-dialog/end-agreement-dialog.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="end-agreement:Agreement is already ended" datatype="html">
+        <source> Agreement is already ended </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/end-agreement-dialog/end-agreement-dialog.component.html</context>
+          <context context-type="linenumber">12,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="end-agreement:End agreement process is in progress" datatype="html">
+        <source> End agreement process is in progress. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/end-agreement-dialog/end-agreement-dialog.component.html</context>
+          <context context-type="linenumber">24,26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="end-agreement:The agreement cannot be ended because it has invoices" datatype="html">
+        <source> The agreement cannot be ended because it has invoices (<x id="INTERPOLATION" equiv-text="{{ invoicesCount() }}"/>). </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/end-agreement-dialog/end-agreement-dialog.component.html</context>
+          <context context-type="linenumber">33,35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="end-agreement:End date" datatype="html">
+        <source>End date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/end-agreement-dialog/end-agreement-dialog.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="end-agreement:Reason for ending" datatype="html">
+        <source>Reason for ending</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/end-agreement-dialog/end-agreement-dialog.component.html</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="end-agreement:Cancellation end description" datatype="html">
+        <source>Cancellation end description</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/end-agreement-dialog/end-agreement-dialog.component.html</context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="end-agreement:Current customer address" datatype="html">
+        <source>Current customer address</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/end-agreement-dialog/end-agreement-dialog.component.html</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="end-agreement:Current invoicing address" datatype="html">
+        <source>Current invoicing address</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/end-agreement-dialog/end-agreement-dialog.component.html</context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="end-agreement:Cancel end agreement" datatype="html">
+        <source> Cancel end agreement </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/end-agreement-dialog/end-agreement-dialog.component.html</context>
+          <context context-type="linenumber">135,137</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="end-agreement:End agreement" datatype="html">
+        <source> End agreement </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/end-agreement-dialog/end-agreement-dialog.component.html</context>
+          <context context-type="linenumber">149,151</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="end-agreement:Cancel" datatype="html">
+        <source> Cancel </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/end-agreement-dialog/end-agreement-dialog.component.html</context>
+          <context context-type="linenumber">160,162</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="confirmation-dialog" datatype="html">
+        <source>Are you sure you want to cancel ending the agreement?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/agreement-overview/components/end-agreement-dialog/end-agreement-dialog.component.ts</context>
+          <context context-type="linenumber">219</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/feature-new-agreement.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info-customer-type:Customer type" datatype="html">
+        <source>Customer type</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/create-contact-person-component/feature-create-contact-person-component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info-first-name:First name" datatype="html">
+        <source>First name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/create-contact-person-component/feature-create-contact-person-component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info-middle-name:Middle name" datatype="html">
+        <source>Middle name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/create-contact-person-component/feature-create-contact-person-component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info-last-name:Last name" datatype="html">
+        <source>Last name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/create-contact-person-component/feature-create-contact-person-component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info-first-name:Company Name" datatype="html">
+        <source>Company name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/create-contact-person-component/feature-create-contact-person-component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info-middle-name:Business ID" datatype="html">
+        <source>Business ID</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/create-contact-person-component/feature-create-contact-person-component.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info-last-name:Tax identification mumber" datatype="html">
+        <source>Tax identification number</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/create-contact-person-component/feature-create-contact-person-component.html</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info-last-name:E-Invoicing" datatype="html">
+        <source>E-Invoicing</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/create-contact-person-component/feature-create-contact-person-component.html</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="button-add-contact-person:Add contact person" datatype="html">
+        <source> <x id="INTERPOLATION" equiv-text="{{data()?&apos;Update contact person&apos;:&apos;Add contact person&apos;}}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/create-contact-person-component/feature-create-contact-person-component.html</context>
+          <context context-type="linenumber">93,95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="feature-new-agreement-accounting-point:select-accounting-point" datatype="html">
+        <source>Select accounting point</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-accounting-point/new-agreement-accounting-point.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="feature-new-agreement-accounting-point:search" datatype="html">
+        <source>search</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-accounting-point/new-agreement-accounting-point.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="feature-new-agreement-accounting-point:relatedAgreements" datatype="html">
+        <source>Related agreements</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-accounting-point/new-agreement-accounting-point.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="feature-new-agreement-agreement-template:SelectDateProducts" datatype="html">
+        <source>Agreement template:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-agreement-template/new-agreement-agreement-template.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="feature-new-agreement-agreement-template:offerDate" datatype="html">
+        <source>Offer date*</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-agreement-template/new-agreement-agreement-template.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="feature-new-agreement-agreement-template:startDate" datatype="html">
+        <source>Start date*</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-agreement-template/new-agreement-agreement-template.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="feature-new-agreement-agreement-template:endDate" datatype="html">
+        <source>End date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-agreement-template/new-agreement-agreement-template.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="button-add-customer-uppercase:ADD CUSTOMER" datatype="html">
+        <source> SUBMIT </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-agreement-template/new-agreement-agreement-template.component.html</context>
+          <context context-type="linenumber">36,38</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/new-customer/feature/src/new-customer-form/new-customer-form.component.html</context>
+          <context context-type="linenumber">25,27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="feature-new-agreement-agreement-template:SelectProducts" datatype="html">
+        <source>Select products</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-agreement-template/product-set-tree/product-set-tree.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info-edit-dialog:Edit customer information" datatype="html">
+        <source>Create customer</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-contact-person/create-contact-person-dialog/create-contact-person-dialog.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-customer/create-customer-dialog/create-customer-dialog.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-invoice-information/create-invoice-config-dialog/create-invoice-config-dialog.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info-dialog/customer-info-dialog.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="button-revert-changes:Cancel" datatype="html">
+        <source> close </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-contact-person/create-contact-person-dialog/create-contact-person-dialog.component.html</context>
+          <context context-type="linenumber">12,14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-customer/create-customer-dialog/create-customer-dialog.component.html</context>
+          <context context-type="linenumber">12,14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-invoice-information/create-invoice-config-dialog/create-invoice-config-dialog.component.html</context>
+          <context context-type="linenumber">13,15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info-dialog/customer-info-dialog.component.html</context>
+          <context context-type="linenumber">49,51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="feature-new-agreement-contact-person:select-contact-person" datatype="html">
+        <source>Select contact person</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-contact-person/new-agreement-contact-person.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-contact-person/new-agreement-contact-person.component.html</context>
+          <context context-type="linenumber">22,23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="feature-new-agreement-customer:select-customer" datatype="html">
+        <source>Select customer</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-customer/new-agreement-customer.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="feature-new-agreement-customer:search" datatype="html">
+        <source>search</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-customer/new-agreement-customer.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-invoice-information/new-agreement-invoice-information.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="feature-new-agreement-customer:close" datatype="html">
+        <source>close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-customer/new-agreement-customer.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-invoice-information/new-agreement-invoice-information.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="feature-invoice-information:Address" datatype="html">
+        <source>Address</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-invoice-information/invoice-configuration-component/invoice-information.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="feature-invoice-information:distributionMethods" datatype="html">
+        <source>Distribution Method</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-invoice-information/invoice-configuration-component/invoice-information.component.html</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="feature-invoice-information:other" datatype="html">
+        <source>Other</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-invoice-information/invoice-configuration-component/invoice-information.component.html</context>
+          <context context-type="linenumber">244</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="feature-new-agreement-invoice-information:select-invoice-config" datatype="html">
+        <source>Select invoice</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-invoice-information/new-agreement-invoice-information.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="contact-person-info-view-dialog:Customer" datatype="html">
+        <source>Customer</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-summary/new-agreement-summary.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="contact-person-info-view-dialog:Accounting point" datatype="html">
+        <source>Accounting point</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-summary/new-agreement-summary.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="contact-person-info-view-dialog:Agreement template" datatype="html">
+        <source>Agreement template</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-summary/new-agreement-summary.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="contact-person-info-view-dialog:Invoice configuration" datatype="html">
+        <source>Invoice configuration</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/agreement/feature/src/new-agreement/components/new-agreement-summary/new-agreement-summary.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="edit-additional-address:Edit additional address" datatype="html">
+        <source> Edit additional address </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/additional-contact-information/components/additional-address-dialog/additional-address-dialog.component.html</context>
+          <context context-type="linenumber">3,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="add-additional-address:Add additional address" datatype="html">
+        <source> Add additional address </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/additional-contact-information/components/additional-address-dialog/additional-address-dialog.component.html</context>
+          <context context-type="linenumber">8,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info-information-type:Type" datatype="html">
+        <source>Type</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/additional-contact-information/components/additional-address-dialog/additional-address-dialog.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/additional-contact-information/components/additional-contact-channel-dialog/additional-contact-channel-dialog.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="button-save:Save" datatype="html">
+        <source> Save </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/additional-contact-information/components/additional-address-dialog/additional-address-dialog.component.html</context>
+          <context context-type="linenumber">44,46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/additional-contact-information/components/additional-contact-channel-dialog/additional-contact-channel-dialog.component.html</context>
+          <context context-type="linenumber">67,69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="add-additional-contact-channel:Add aaditional contact channel" datatype="html">
+        <source> Add additional contact channel </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/additional-contact-information/components/additional-contact-channel-dialog/additional-contact-channel-dialog.component.html</context>
+          <context context-type="linenumber">3,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="edit-additional-contact-channel:Edit additional contact channel" datatype="html">
+        <source> Edit additional contact channel </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/additional-contact-information/components/additional-contact-channel-dialog/additional-contact-channel-dialog.component.html</context>
+          <context context-type="linenumber">8,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info-value:Value" datatype="html">
+        <source>Value</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/additional-contact-information/components/additional-contact-channel-dialog/additional-contact-channel-dialog.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="error-invalid-value:Invalid value" datatype="html">
+        <source> Invalid value </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/additional-contact-information/components/additional-contact-channel-dialog/additional-contact-channel-dialog.component.html</context>
+          <context context-type="linenumber">46,48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info-comment:Comment" datatype="html">
+        <source>Comment</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/additional-contact-information/components/additional-contact-channel-dialog/additional-contact-channel-dialog.component.html</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-address-form:Street name" datatype="html">
+        <source>Street name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e8848ffa68dfb5ebddce99974796f824c44ae94a" datatype="html">
+        <source>Ex. Vaisalantie</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-address-form:Street number" datatype="html">
+        <source>Street number</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4b867ce8212754c4c374dbff6f37af9370f858d5" datatype="html">
+        <source>Ex. 44</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-address-form:Stairwell" datatype="html">
+        <source>Stairwell</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a8bba6e0d2f327d3a4993b98298652741eedd1e8" datatype="html">
+        <source>Ex. A</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-address-form:Apartment" datatype="html">
+        <source>Apartment</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="24a02054753ed71c4abde7dfc0ccefda15ea9fc1" datatype="html">
+        <source>Ex. 34</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-address-form:PO box" datatype="html">
+        <source>PO box</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2778cabcd04f62adf25d8c9ea267ef15fff35530" datatype="html">
+        <source>Ex. 560</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-address-form:Postal code" datatype="html">
+        <source>Postal code</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="291f5d83ffee697377d54307e823acea8c183a8a" datatype="html">
+        <source>Ex. 04300</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-address-form:Postal name" datatype="html">
+        <source>Postal name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="910e411e08cab789eccf66164bd5d708230906e4" datatype="html">
+        <source>Ex. HELSINKI</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-address-form:Country" datatype="html">
+        <source>Country</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-address-form:CO address" datatype="html">
+        <source>CO address</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">89</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a3242fbfa027b6738cdb323ebca49375cb4aab66" datatype="html">
+        <source>Ex. Jari Uusitalo</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">92</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-address-form:Attention" datatype="html">
+        <source>Attention</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-address-form/customer-address-form.component.html</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-contact-form:Service language" datatype="html">
+        <source>Service language</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-contact-form/customer-contact-form.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-contact-form:Main E-mail" datatype="html">
+        <source>Main E-mail</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-contact-form/customer-contact-form.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f17d89d2987d668e8ab63592d37f068e8cd7ebe4" datatype="html">
+        <source>Ex. name@domain.com</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-contact-form/customer-contact-form.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-contact-form:Main phone number" datatype="html">
+        <source>Main phone number</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-contact-form/customer-contact-form.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f85295f54a103cd8220821c56ed814323b85d05d" datatype="html">
+        <source>Ex. +358501234567</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-contact-form/customer-contact-form.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-identification-form:Customer ID type" datatype="html">
+        <source>Customer ID type</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-identification-form:First name" datatype="html">
+        <source>First name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-identification-form:Middle name" datatype="html">
+        <source>Middle name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-identification-form:Last name" datatype="html">
+        <source>Last name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-identification-form:Company name" datatype="html">
+        <source>Company name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-identification-form:Social security" datatype="html">
+        <source>Social security</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info-company-id:Company ID" datatype="html">
+        <source>Company ID</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="error-not-valid-ssn-format:Not valid SSN format" datatype="html">
+        <source>Not valid SSN format</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">92</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="error-not-valid-business-id-format:Not valid business ID format" datatype="html">
+        <source> Not valid business ID format </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">95,97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-identification-form:Date of birth" datatype="html">
+        <source>Date of birth</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">106</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="45e01260b6532d1f0284723b836378d264d27df3" datatype="html">
+        <source>Ex. 3.2.1962</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-identification-form:Customer subtype" datatype="html">
+        <source>Customer subtype</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-identification-form:Additional ID" datatype="html">
+        <source>Additional ID</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">148</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4591b9111ba8d8df973a8ac3d5bc529f6f531785" datatype="html">
+        <source>Ex. 291099-963C</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">151</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-identification-form:Information restriction" datatype="html">
+        <source>Information restriction</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">167</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-identification-form:No" datatype="html">
+        <source>No</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">169</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-identification-form:Yes" datatype="html">
+        <source>Yes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-identification-form/customer-identification-form.component.html</context>
+          <context context-type="linenumber">170</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info-header-identification:Identification" datatype="html">
+        <source>Identification</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info-dialog/customer-info-dialog.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info-header-contact:Contact" datatype="html">
+        <source>Contact</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info-dialog/customer-info-dialog.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info-header-main-address:Main address" datatype="html">
+        <source>Main address</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info-dialog/customer-info-dialog.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info:Errands" datatype="html">
+        <source>Errands</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info-tabs/customer-info-tabs.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info:Notes" datatype="html">
+        <source>Notes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info-tabs/customer-info-tabs.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info:Change log details" datatype="html">
+        <source>Change log details</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info-tabs/customer-info-tabs.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info:Additional contact information" datatype="html">
+        <source>Additional contact information</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info-tabs/customer-info-tabs.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info:Opt in/out" datatype="html">
+        <source>Opt in/out</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info-tabs/customer-info-tabs.component.html</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="opt-in-out:Restrictions all channels" datatype="html">
+        <source>Restrictions all channels</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info-tabs/opt-in-out/opt-in-out.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="opt-in-out:Restrictions" datatype="html">
+        <source>Restrictions</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info-tabs/opt-in-out/opt-in-out.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="opt-in-out:SELECT ALL" datatype="html">
+        <source>SELECT ALL</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info-tabs/opt-in-out/opt-in-out.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="opt-in-out:DESELECT ALL" datatype="html">
+        <source>DESELECT ALL</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info-tabs/opt-in-out/opt-in-out.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="opt-in-out:CANCEL" datatype="html">
+        <source>CANCEL</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info-tabs/opt-in-out/opt-in-out.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="opt-in-out:SAVE" datatype="html">
+        <source>SAVE</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info-tabs/opt-in-out/opt-in-out.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-info" datatype="html">
+        <source>First name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">82</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">98</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">108</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">115</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">124</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">139</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">144</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">150</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">155</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/customer-info/customer-info.component.ts</context>
+          <context context-type="linenumber">165</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-errands-header" datatype="html">
+        <source>Error</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/note/logic/note.service.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-errands-not-found" datatype="html">
+        <source>Errands could not be found.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/customer/feature/src/note/logic/note.service.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="menu-item-app-link-edm" datatype="html">
+        <source>EDM (Energy Data Management)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/data-access/src/store/uiStore/ui-store.initial-state.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="menu-item-app-link-pas" datatype="html">
+        <source>PAS (Process Automation Suite)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/data-access/src/store/uiStore/ui-store.initial-state.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="menu-item-home" datatype="html">
+        <source>Home</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/data-access/src/store/uiStore/ui-store.initial-state.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="menu-item-search" datatype="html">
+        <source>Search</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/data-access/src/store/uiStore/ui-store.initial-state.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="menu-item-new-customer" datatype="html">
+        <source>New customer</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/data-access/src/store/uiStore/ui-store.initial-state.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="menu-item-move-in" datatype="html">
+        <source>Move-in</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/data-access/src/store/uiStore/ui-store.initial-state.ts</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home-page:Quick links" datatype="html">
+        <source>Quick links</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/home/feature/src/components/user-info/user-info.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description">:</note>
+      </trans-unit>
+      <trans-unit id="home-page:Favourite customers" datatype="html">
+        <source>Favourite customers</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/home/feature/src/components/user-info/user-info.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <note priority="1" from="description">:</note>
+      </trans-unit>
+      <trans-unit id="home-page:Recently visited customers" datatype="html">
+        <source>Recently visited customers</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/home/feature/src/components/user-info/user-info.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <note priority="1" from="description">:</note>
+      </trans-unit>
+      <trans-unit id="agreement-details:Distribution methods" datatype="html">
+        <source>Distribution methods</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details-tabs/invoice-configuration-details-tabs.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="agreement-details:Invoice distribution" datatype="html">
+        <source>Invoice distribution</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details-tabs/invoice-configuration-details-tabs.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="invoice-configuration-details" datatype="html">
+        <source>Invoice configuration details</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details/panel-data.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details/panel-data.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details/panel-data.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details/panel-data.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details/panel-data.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details/panel-data.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details/panel-data.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details/panel-data.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details/panel-data.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details/panel-data.ts</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details/panel-data.ts</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details/panel-data.ts</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details/panel-data.ts</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details/panel-data.ts</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details/panel-data.ts</context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details/panel-data.ts</context>
+          <context context-type="linenumber">98</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details/top-info.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details/top-info.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details/top-info.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-configuration-details/top-info.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="invoice-details" datatype="html">
+        <source>Invoice details</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">89</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">99</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">104</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">109</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">128</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">133</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">138</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/feature/src/invoice-details/invoice-details-grid.component.ts</context>
+          <context context-type="linenumber">144</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="statistics-dialog:Statistics" datatype="html">
+        <source> Invoice stop <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>(mock data)<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/ui/src/invoice-stop/invoice-stop-dialog.component.ts</context>
+          <context context-type="linenumber">12,14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ui/src/lib/ag-grid/components/distribution-methods-renderer/distribution-method-dialog.component.ts</context>
+          <context context-type="linenumber">26,28</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ui/src/lib/statistics-dialog/statistics-dialog.component.ts</context>
+          <context context-type="linenumber">12,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="statistics-dialog:Close" datatype="html">
+        <source>Close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/invoice/ui/src/invoice-stop/invoice-stop-dialog.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ui/src/lib/ag-grid/components/distribution-methods-renderer/distribution-method-dialog.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ui/src/lib/statistics-dialog/statistics-dialog.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="left-menu-item-summary-page" datatype="html">
+        <source>Summary page</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/left-menu/feature/src/feature-customer-left-menu.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="left-menu-item-customer-info" datatype="html">
+        <source>Customer info</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/left-menu/feature/src/feature-customer-left-menu.component.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="left-menu-item-invoices" datatype="html">
+        <source>Invoices</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/left-menu/feature/src/feature-customer-left-menu.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="left-menu-item-agreements" datatype="html">
+        <source>Agreements</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/left-menu/feature/src/feature-customer-left-menu.component.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="left-menu-item-accounting-points" datatype="html">
+        <source>Accounting points</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/left-menu/feature/src/feature-customer-left-menu.component.ts</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="left-menu-item-campaign-member" datatype="html">
+        <source>Campaign member</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/left-menu/feature/src/feature-customer-left-menu.component.ts</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="left-menu-item-new-contract" datatype="html">
+        <source>New agreement</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/left-menu/feature/src/feature-customer-left-menu.component.ts</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="settings-dialog:Settings" datatype="html">
+        <source>Generate test values</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/meter-values-consumption/feature/src/generate-values-dialog/generate-values-dialog.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/top-menu/feature/src/settings-dialog/settings-dialog.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="settings-dialog:Close" datatype="html">
+        <source><x id="START_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&lt;mat-icon&gt;"/>close<x id="CLOSE_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&lt;/mat-icon&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/meter-values-consumption/feature/src/generate-values-dialog/generate-values-dialog.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/top-menu/feature/src/settings-dialog/settings-dialog.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="new-customer-form:Identification" datatype="html">
+        <source>Identification</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/new-customer/feature/src/new-customer-form/new-customer-form.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="new-customer-form:Contact" datatype="html">
+        <source>Contact</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/new-customer/feature/src/new-customer-form/new-customer-form.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="new-customer-form:Main address" datatype="html">
+        <source>Main address</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/new-customer/feature/src/new-customer-form/new-customer-form.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-ribbon:Customer code" datatype="html">
+        <source>Customer code:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ribbon/feature/src/customer-ribbon-overview.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-ribbon:not-selected" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;ribbon-value&quot;&gt;"/> Not selected<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ribbon/feature/src/customer-ribbon-overview.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ribbon/feature/src/customer-ribbon-overview.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ribbon/feature/src/customer-ribbon-overview.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ribbon/feature/src/customer-ribbon-overview.component.html</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-ribbon:Name" datatype="html">
+        <source>Name:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ribbon/feature/src/customer-ribbon-overview.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-ribbon:Legal status" datatype="html">
+        <source>Legal status:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ribbon/feature/src/customer-ribbon-overview.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-ribbon:Address" datatype="html">
+        <source>Address:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ribbon/feature/src/customer-ribbon-overview.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="table-count-statistics:{{valueToShow.label}}" datatype="html">
+        <source> <x id="INTERPOLATION" equiv-text="{{ valueToShow.label }}"/> (<x id="INTERPOLATION_1" equiv-text="{{ valueToShow.value }}"/>) </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/summary-page/ui/src/table-count-statistics.component.ts</context>
+          <context context-type="linenumber">15,17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-dropdown:Settings" datatype="html">
+        <source>Settings</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/top-menu/feature/src/customer-dropdown/customer-dropdown.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-dropdown:Help" datatype="html">
+        <source>Help</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/top-menu/feature/src/customer-dropdown/customer-dropdown.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-dropdown:Logout" datatype="html">
+        <source>Logout</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/top-menu/feature/src/customer-dropdown/customer-dropdown.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="help-dialog:Close" datatype="html">
+        <source>Close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/top-menu/feature/src/help-dialog/help-dialog.component.html</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="notifications-dialog:Close" datatype="html">
+        <source>Close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/top-menu/feature/src/notifications-dialog/notifications-dialog.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="language-en-US" datatype="html">
+        <source>English</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/top-menu/feature/src/settings-dialog/settings-dialog.component.ts</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="language-sv-SE" datatype="html">
+        <source>Swedish</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/top-menu/feature/src/settings-dialog/settings-dialog.component.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="language-fi-FI" datatype="html">
+        <source>Finnish</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/top-menu/feature/src/settings-dialog/settings-dialog.component.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="language-nb" datatype="html">
+        <source>Norwegian</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/top-menu/feature/src/settings-dialog/settings-dialog.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="settings-dialog:Language:" datatype="html">
+        <source>Language:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/top-menu/feature/src/settings-dialog/settings-dialog.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="settings-dialog:Notifications:" datatype="html">
+        <source>Notifications:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/top-menu/feature/src/settings-dialog/settings-dialog.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="settings-dialog:StoreSession:" datatype="html">
+        <source>Store Session:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/top-menu/feature/src/settings-dialog/settings-dialog.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="settings-dialog:Application version:" datatype="html">
+        <source>Application version:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/top-menu/feature/src/settings-dialog/settings-dialog.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="distribution-method-dialog:Code" datatype="html">
+        <source>Code</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ui/src/lib/ag-grid/components/distribution-methods-renderer/distribution-method-dialog.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="distribution-method-dialog:Name" datatype="html">
+        <source>Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ui/src/lib/ag-grid/components/distribution-methods-renderer/distribution-method-dialog.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="distribution-method-dialog:Configuration type" datatype="html">
+        <source>Configuration type</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ui/src/lib/ag-grid/components/distribution-methods-renderer/distribution-method-dialog.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="distribution-method-dialog:Distribution method" datatype="html">
+        <source>Distribution method</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ui/src/lib/ag-grid/components/distribution-methods-renderer/distribution-method-dialog.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="confirmation-dialog:Discard changes?" datatype="html">
+        <source>Discard changes?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ui/src/lib/confirmation-dialog/confirmation-dialog.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="confirmation-dialog:Yes" datatype="html">
+        <source> Yes </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ui/src/lib/confirmation-dialog/confirmation-dialog.component.ts</context>
+          <context context-type="linenumber">24,26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="confirmation-dialog:No" datatype="html">
+        <source> No </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ui/src/lib/confirmation-dialog/confirmation-dialog.component.ts</context>
+          <context context-type="linenumber">27,29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="free-text-search-placeholder" datatype="html">
+        <source>search value</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ui/src/lib/free-text-search/free-text-search.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <note priority="1" from="description">:</note>
+      </trans-unit>
+      <trans-unit id="{{translationKey()}}:{{ pageTitle() }}" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{ pageTitle() }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ui/src/lib/page-header/page-header.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="common-page-not-found:Page not found" datatype="html">
+        <source><x id="START_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&lt;mat-icon&gt;"/>not_listed_location<x id="CLOSE_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&lt;/mat-icon&gt;"/> Page not found </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ui/src/lib/page-not-found/page-not-found.component.ts</context>
+          <context context-type="linenumber">14,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="common-page-not-found-text:Maybe the page you are looking for has been removed, or you typed in the
+              wrong URL" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Maybe the page you are looking for has been removed, or you typed in the wrong URL.<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ui/src/lib/page-not-found/page-not-found.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="baea610851e0e1b790381adbb9da1932982a4ece" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{ item.label }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ui/src/lib/top-info-detail/top-info-detail.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <note priority="1" from="description">{{ item.translationKey }}:{{ item.label }}</note>
+      </trans-unit>
+      <trans-unit id="08350d15bfe0192c4126de356bf6a0450181d390" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{ item.value }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/ui/src/lib/top-info-detail/top-info-detail.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description">{{ item.translationKey }}:{{ item.value }}</note>
+      </trans-unit>
+      <trans-unit id="customer-status-potential" datatype="html">
+        <source>Potential</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-status-ended" datatype="html">
+        <source>Ended</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-status-prospect" datatype="html">
+        <source>Prospect</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-status-active" datatype="html">
+        <source>Active</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="unknown" datatype="html">
+        <source>Unknown</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-type-person" datatype="html">
+        <source>Person</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-type-company" datatype="html">
+        <source>Company</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customer-type-unknown" datatype="html">
+        <source>Unknown</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="delivery-site-service-type-unknown" datatype="html">
+        <source>Unknown</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="delivery-site-service-type-electricity" datatype="html">
+        <source>Electricity Consumption</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="delivery-site-service-type-electricity-Production" datatype="html">
+        <source>Electricity Production</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="delivery-site-service-type-districtHeating" datatype="html">
+        <source>District Heating</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="delivery-site-service-type-internet" datatype="html">
+        <source>Internet</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="delivery-site-service-type-districtCooling" datatype="html">
+        <source>District Cooling</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="delivery-site-service-type-steam" datatype="html">
+        <source>Steam</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="delivery-site-service-type-gas" datatype="html">
+        <source>Gas</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="invoice-stop-active" datatype="html">
+        <source>Invoice Stop Active</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="invoice-stop-not-active" datatype="html">
+        <source>Invoice Stop Not Active</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="invoice-end-invoiced" datatype="html">
+        <source>Finally Invoiced</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="invoice-not-end-invoiced" datatype="html">
+        <source>Not Finally Invoiced</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="true" datatype="html">
+        <source>Yes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="false" datatype="html">
+        <source>No</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-error-bigger-than-maximal" datatype="html">
+        <source>Length is bigger than maximal value</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-error-incorrect-UUID-format" datatype="html">
+        <source>UUID is not in correct format</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-error-out-of-range" datatype="html">
+        <source>Value out of range</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-error-required" datatype="html">
+        <source>Value is required</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-error-email" datatype="html">
+        <source>Email address is not valid</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-error-phone" datatype="html">
+        <source>Invalid phone number</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-error-shorter-than-minimal" datatype="html">
+        <source>Length is shorter than minimal value</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-error-incorrect-date-time-format" datatype="html">
+        <source>DateTime is not in correct format</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/util/src/mappers/language-mapping.ts</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

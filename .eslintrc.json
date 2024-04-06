@@ -2,10 +2,16 @@
   "root": true,
   "ignorePatterns": ["**/*"],
   "plugins": ["@nx"],
+  "rules": {
+    "@typescript-eslint/no-explicit-any": "off",
+    "@typescript-eslint/no-unused-vars": "off"
+  },
   "overrides": [
     {
       "files": ["*.ts", "*.tsx", "*.js", "*.jsx"],
       "rules": {
+        "@typescript-eslint/no-explicit-any": "off",
+        "@typescript-eslint/no-unused-vars": "off",
         "@nx/enforce-module-boundaries": [
           "error",
           {
@@ -13,8 +19,39 @@
             "allow": [],
             "depConstraints": [
               {
-                "sourceTag": "*",
-                "onlyDependOnLibsWithTags": ["*"]
+                "sourceTag": "type:app",
+                "onlyDependOnLibsWithTags": ["type:feature", "type:data-access", "type:core", "type:util", "type:ui"]
+              },
+              {
+                "sourceTag": "type:core",
+                "onlyDependOnLibsWithTags": ["type:core", "type:util", "type:api-models"]
+              },
+              {
+                "sourceTag": "type:ui",
+                "onlyDependOnLibsWithTags": ["type:ui", "type:util", "type:core", "type:api-models"]
+              },
+              {
+                "sourceTag": "type:util",
+                "onlyDependOnLibsWithTags": ["type:util", "type:api-models"]
+              },
+              {
+                "sourceTag": "type:feature",
+                "onlyDependOnLibsWithTags": [
+                  "type:feature",
+                  "type:data-access",
+                  "type:ui",
+                  "type:util",
+                  "type:core",
+                  "type:api-models"
+                ]
+              },
+              {
+                "sourceTag": "type:data-access",
+                "onlyDependOnLibsWithTags": ["type:data-access", "type:util", "type:core", "type:api-models"]
+              },
+              {
+                "sourceTag": "type:api-models",
+                "onlyDependOnLibsWithTags": ["type:api-models"]
               }
             ]
           }
@@ -24,18 +61,22 @@
     {
       "files": ["*.ts", "*.tsx"],
       "extends": ["plugin:@nx/typescript"],
-      "rules": {}
+      "rules": {
+        "@typescript-eslint/no-explicit-any": "off",
+        "@typescript-eslint/no-unused-vars": "off"
+      }
     },
     {
       "files": ["*.js", "*.jsx"],
       "extends": ["plugin:@nx/javascript"],
-      "rules": {}
+      "rules": {
+        "@typescript-eslint/no-explicit-any": "off",
+        "@typescript-eslint/no-unused-vars": "off"
+      }
     },
     {
-      "files": ["*.spec.ts", "*.spec.tsx", "*.spec.js", "*.spec.jsx"],
-      "env": {
-        "jest": true
-      },
+      "files": "*.json",
+      "parser": "jsonc-eslint-parser",
       "rules": {}
     }
   ]

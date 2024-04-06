@@ -1,0 +1,12 @@
+{
+  "baseApiUrl": "https://localhost:5100",
+  "coreApiPath": "",
+  "pslApiPath": "psl",
+  "tenantId": "test-dso-company",
+  "azureConfiguration": {
+    "clientId": "edb1afcf-cfce-4c3d-a57f-f7ca8aca6a93",
+    "authority": "https://login.microsoftonline.com/f171fcbe-4318-4860-86ce-0db18069b025",
+    "redirectUri": "http://localhost:4200",
+    "scopes": "api://f171fcbe-4318-4860-86ce-0db18069b025/cis-dev-core-api/.default"
+  }
+}
