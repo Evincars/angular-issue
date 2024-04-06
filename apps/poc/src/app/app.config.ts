@@ -1,13 +1,13 @@
-import { ApplicationConfig } from '@angular/core';
-import { APP_CONFIGURATION } from '@cloud-cis/util';
+// import { ApplicationConfig } from '@angular/core';
+// import { APP_CONFIGURATION } from '@cloud-cis/util';
 
-export function appConfig(appConfiguration: any): ApplicationConfig {
+export function appConfig(appConfiguration: any) {
   return {
     providers: [
-      {
+      /*{
         provide: APP_CONFIGURATION,
         useValue: appConfiguration,
-      },
+      },*/
       // uiConfigurationProvider,
       // {
       //   provide: CLOUD_CIS_SHOW_COMMON_ERROR,

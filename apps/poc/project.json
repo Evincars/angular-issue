@@ -64,7 +64,7 @@
             "output": "."
           }
         ],
-        "styles": ["libs/styles/src/index.scss", "apps/poc/src/styles.scss"],
+        "styles": ["apps/poc/src/styles.scss"],
         "scripts": [],
         "sourceMap": true
       },
