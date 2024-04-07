@@ -1,4 +1,4 @@
-import { ChangeDetectionStrategy, Component } from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
   standalone: true,
@@ -7,13 +7,5 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
     <!--    <feature-top-menu />-->
     <!--    <router-outlet />-->
   `,
-  styles: `
-      :host {
-        display: flex;
-        height:100%;
-        flex-direction: column;
-      }
-    `,
-  changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class AppComponent {}
