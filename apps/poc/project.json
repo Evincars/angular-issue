@@ -112,17 +112,8 @@
         "production": {
           "buildTarget": "poc:build:production"
         },
-        "en": {
-          "buildTarget": "poc:build:en"
-        },
-        "fi": {
-          "buildTarget": "poc:build:fi"
-        },
-        "sv": {
-          "buildTarget": "poc:build:sv"
-        },
-        "nb": {
-          "buildTarget": "poc:build:nb"
+        "development": {
+          "buildTarget": "poc:build:development"
         }
       }
     },

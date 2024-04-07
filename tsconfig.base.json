@@ -14,18 +14,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "resolveJsonModule": true,
-    "esModuleInterop": true,
     "paths": {
-    }
-  },
-  "angularCompilerOptions": {
-    "module": "commonjs",
-    "target": "es5",
-    "strictInjectionParameters": true,
-    "strictInputAccessModifiers": true,
-    "strictTemplates": true,
-    "fullTemplateTypeCheck": true
+
+    },
+    "resolveJsonModule": true,
+    "esModuleInterop": true
   },
   "exclude": ["node_modules", "tmp"]
 }
